@@ -10,3 +10,8 @@
 - 🌲 https://dev-bot.xyz
 - 🌳 https://guide.dev-bot.xyz
 - 🌴 https://discord.gg/hzKAAX9
+
+## Technologies I use:
+DiscordJS             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://simpleicons.org/icons/discord.svg)  |  ![](https://...Ocean.png)
