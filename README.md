@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I took my first steps in programming at the age of 11
 
 ## My main project:
-https://dev-bot.xyz
-https://guide.dev-bot.xyz
-https://discord.gg/hzKAAX9
+- https://dev-bot.xyz
+- https://guide.dev-bot.xyz
+- https://discord.gg/hzKAAX9
