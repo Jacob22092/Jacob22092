@@ -11,5 +11,6 @@
 - 🌳 https://guide.dev-bot.xyz
 - 🌴 https://discord.gg/hzKAAX9
 
-## Technologies I use:
-<img align="left" width="50" height="50" src="https://simpleicons.org/icons/discord.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/node-dot-js.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/github.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/html5.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/css3.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/bootstrap.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/git.svg">
+## Technologies and tools I use:
+<img align="left" width="50" height="50" src="https://simpleicons.org/icons/discord.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/node-dot-js.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/github.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/html5.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/css3.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/bootstrap.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/git.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/javascript.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/wordpress.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/visualstudiocode.svg"><img align="left" width="50" height="50" src="https://simpleicons.org/icons/visualstudio.svg">
+
