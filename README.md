@@ -12,3 +12,4 @@
 - 🌴 https://discord.gg/hzKAAX9
 
 ## Technologies I use:
+<img align="left" width="100" height="100" src="https://simpleicons.org/icons/discord.svg"><img align="left" width="100" height="100" src="https://simpleicons.org/icons/node-dot-js.svg"><img align="left" width="100" height="100" src="https://simpleicons.org/icons/github.svg">
