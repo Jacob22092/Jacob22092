@@ -1,4 +1,4 @@
-# Hi I'm Jacob 👋
+# Hi I'm Jakub 👋
 
 - 🔭 I’m currently working on Discord Bot (DevBot)
 - 🌱 I’m currently learning JavaScript/React
