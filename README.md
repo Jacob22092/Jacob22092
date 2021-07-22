@@ -1,6 +1,6 @@
 # Hi I'm Jakub 👋
 
-- 🔭 I’m currently working on Discord Bot (DevBot)
+- 🔭 I’m currently working on Discord Bot (ProtBot)
 - 🌱 I’m currently learning JavaScript/React
 - 💬 Ask me about DiscordJS
 - 📫 How to reach me: Jakub2001411@gmail.com
