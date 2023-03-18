@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacob22092&label=Profile%20views&color=0e75b6&style=flat" alt="jacob22092" /> </p>
 
-- 🔭 I’m currently working on Discord Bot **(ProtBot)**
+- 🔭 I’m currently working on 🤫
 
 - 📫 How to reach me: **Jakub2001411@gmail.com**
 
 - 🌱 I’m currently learning **JavaScript/React**
 
-- 💬 Ask me about **DiscordJS**
+- 💬 Ask me about **JavaScript**
 
 - ⚡ Fun fact: I took my first steps in programming at the age of 11 **I took my first steps in programming at the age of 11**
 
