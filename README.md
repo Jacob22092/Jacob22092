@@ -1,22 +1,40 @@
-<h1 align="center">Hi 👋, I'm Jakub</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacob22092&label=Profile%20views&color=0e75b6&style=flat" alt="jacob22092" /> </p>
+# Hi there, I'm Jakub Hyziak 👋
 
-- 🔭 I’m currently working on 🤫
 
-- 📫 How to reach me: **Jakub2001411@gmail.com**
+Welcome to my GitHub profile! I am a passionate web developer based in Kraków, focusing on creating dynamic and user-friendly websites and JavaScript applications.
 
-- 🌱 I’m currently learning **JavaScript/React**
+### About Me
+- 🌍 From: Kraków, Poland
+- 💻 Currently Working On: Various JavaScript and React projects
+- 📚 Currently Learning: Advanced JavaScript and React
+- 💬 Ask Me About: JavaScript, Web Development
+- ✨ Fun Fact: I started programming at the age of 11!
 
-- 💬 Ask me about **JavaScript**
+### Connect with Me
+- 🌐 [Website](https://jhyziak.eu/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jakub-hyziak-a58193221/)
+- 📸 [Instagram](https://www.instagram.com/jacob22092)
+- 🐦 [Twitter](https://twitter.com/JakubHyziak1)
+- ✉️ Email: Jakub2001411@gmail.com
 
-- ⚡ Fun fact: I took my first steps in programming at the age of 11 **I took my first steps in programming at the age of 11**
+### Support My Work
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/jacob22092" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jacob22092" height="30" width="40" /></a>
-<a href="https://instagram.com/jacob22092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacob22092" height="30" width="40" /></a>
-<a href="https://discord.gg/Prezes#0930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Prezes#0930" height="30" width="40" /></a>
-</p>
+### Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Jacob22092"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prezes" /></a></p><br><br>
+### Pinned Repositories
+[![StudyTools](https://github-readme-stats.vercel.app/api/pin/?username=Jacob22092&repo=StudyTools&theme=dark)](https://github.com/Jacob22092/StudyTools)
+[![OCR-App-2.0](https://github-readme-stats.vercel.app/api/pin/?username=Jacob22092&repo=OCR-App-2.0&theme=dark)](https://github.com/Jacob22092/OCR-App-2.0)
+[![Stay-Focused](https://github-readme-stats.vercel.app/api/pin/?username=Jacob22092&repo=Stay-Focused&theme=dark)](https://github.com/Jacob22092/Stay-Focused)
+[![Linktree](https://github-readme-stats.vercel.app/api/pin/?username=Jacob22092&repo=Linktree&theme=dark)](https://github.com/Jacob22092/Linktree)
+[![SmartNoteTaker](https://github-readme-stats.vercel.app/api/pin/?username=Jacob22092&repo=SmartNoteTaker&theme=dark)](https://github.com/Jacob22092/SmartNoteTaker)
+
+### GitHub Stats
+![Jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacob22092&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob22092&layout=compact&theme=radical)
