@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I am a passionate web developer based in Kraków, 
 [![StudyTools](https://github-readme-stats.vercel.app/api/pin/?username=Jacob22092&repo=StudyTools&theme=dark)](https://github.com/Jacob22092/StudyTools)
 [![OCR-App-2.0](https://github-readme-stats.vercel.app/api/pin/?username=Jacob22092&repo=OCR-App-2.0&theme=dark)](https://github.com/Jacob22092/OCR-App-2.0)
 [![Stay-Focused](https://github-readme-stats.vercel.app/api/pin/?username=Jacob22092&repo=Stay-Focused&theme=dark)](https://github.com/Jacob22092/Stay-Focused)
-[![Linktree](https://github-readme-stats.vercel.app/api/pin/?username=Jacob22092&repo=Linktree&theme=dark)](https://github.com/Jacob22092/Linktree)
 [![SmartNoteTaker](https://github-readme-stats.vercel.app/api/pin/?username=Jacob22092&repo=SmartNoteTaker&theme=dark)](https://github.com/Jacob22092/SmartNoteTaker)
 
 ### GitHub Stats
