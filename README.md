@@ -26,6 +26,8 @@ Building web experiences from Kraków – always with a cup of tonic espresso!
 ## 🧑‍🚀 About Me
 
 - 🏙️ **Location:** Kraków, Poland
+- 🎓 **Student:** Cybersecurity
+- 💼 **Currently:** IT Helpdesk Specialist
 - ⚡ **Specialty:** JavaScript, React, Next.js, fast UI
 - ☕ **Favorite coffee:** Tonic espresso (ice cold, bittersweet, and energizing)
 - 🕹️ **Hobbies:** Retro games, travel, exploring new coffee spots
