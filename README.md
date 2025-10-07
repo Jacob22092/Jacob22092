@@ -18,7 +18,7 @@ Accent color suggestion: #35E0C2
 ### 🔎 Szybko o mnie
 - 📍 Kraków, PL  
 - 🎓 Student: Cybersecurity  
-- 💼 IT Helpdesk Specialist (z misją automatyzowania nudnych rzeczy)  
+- 💼 IT Specialist (z misją automatyzowania nudnych rzeczy)  
 - ⚙️ Frontend: React / Next.js / TypeScript  
 - 🚀 Interesuje mnie: wydajność, dostępność (a11y), DX  
 - ☕ Ulubione paliwo: tonic espresso (musi chrupać lód)  
