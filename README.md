@@ -71,7 +71,7 @@ Realne, sprawdzalne wyniki Google PageSpeed Insights — nie deklaracje. Pełne 
 ## GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jacob22092&theme=dark&hide_border=true&background=0A0A0A&stroke=FFFFFF&ring=398E4A&fire=398E4A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=398E4A&sideLabels=999999&dates=666666" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Jacob22092&theme=dark&hide_border=true&background=0A0A0A&stroke=FFFFFF&ring=398E4A&fire=398E4A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=398E4A&sideLabels=999999&dates=666666" height="165" alt="Statystyki serii commitów na GitHubie"/>
 </p>
 
 <picture>
