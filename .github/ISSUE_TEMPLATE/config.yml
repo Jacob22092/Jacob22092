@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Kontakt biznesowy
+    url: https://www.jhyziak.eu/#kontakt
+    about: Zapytania o usługi proszę kierować przez formularz kontaktowy na stronie.
+  - name: Email
+    url: mailto:kontakt@jhyziak.eu
+    about: Bezpośredni kontakt mailowy.
