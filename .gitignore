@@ -9,3 +9,8 @@ Thumbs.db
 
 # Node (in case tooling is added later)
 node_modules/
+
+# ASCII pipeline — plik pośredni (python scripts/prep_photo.py ...)
+source-prepped.png
+.venv/
+__pycache__/
