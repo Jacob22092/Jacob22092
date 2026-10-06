@@ -1,32 +1,54 @@
 <div align="center">
 
-# ⌘ JAKUB HYZIAK IT
+<!-- animowany kalendarz kontrybucji: prawdziwe dane, kafelki pojawiają się po skosie
+     (odświeżane codziennie przez .github/workflows/update-profile-art.yml) -->
 
-<sub><strong>STRONY WWW · SIECI &amp; VPN · WSPARCIE IT · PRYWATNE AI</strong></sub>
-<br/>
-<sub>Kompleksowe wsparcie informatyczne dla firm z Krakowa i całej Polski.</sub>
+<h3><code>jakub@github ~ $ ./kontrybucje.sh</code></h3>
 
-<br/><br/>
+<img src="./contrib-heatmap.svg" width="860" alt="Kalendarz kontrybucji Jakuba na GitHubie — odświeżany codziennie" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1300&color=FFFFFF&center=true&vCenter=true&width=650&lines=Bezpo%C5%9Bredni+kontakt%2C+zero+po%C5%9Brednik%C3%B3w.;Fixed-Price.+Bez+niespodzianek+na+fakturze.;Next.js+%2B+PageSpeed+90-100%2F100.;MikroTik%2C+WireGuard%2C+zero+martwych+stref.;Prywatne+AI+i+RAG+-+dane+zostaj%C4%85+w+firmie." alt="Typing animation"/>
+<br>
+<br>
 
-<br/><br/>
+<!-- logo ASCII (lewo) + karta statystyk (prawo). oba SVG mają 840x880,
+     więc przy równych szerokościach mają równe wysokości.
+     logo:        python scripts/prep_photo.py jhit.gif --frame 14 --no-rembg && python scripts/make_ascii_svg.py
+     statystyki:  python scripts/render_stats_svg.py (ten sam codzienny workflow) -->
 
-[![Strona](https://img.shields.io/badge/🌐_STRONA-jhyziak.eu-000000?style=flat-square)](https://www.jhyziak.eu/)
-[![Realizacje](https://img.shields.io/badge/📈_REALIZACJE-wyniki_PageSpeed-000000?style=flat-square)](https://www.jhyziak.eu/realizacje)
-[![Kontakt](https://img.shields.io/badge/✉️_KONTAKT-kontakt@jhyziak.eu-000000?style=flat-square)](mailto:kontakt@jhyziak.eu)
+<h3><code>jakub@github ~ $ whoami</code></h3>
 
-[![Google](https://img.shields.io/badge/★★★★★_5.0-10_opinii_na_Google-398E4A?style=flat-square)](https://www.google.com/search?kgmid=/g/11nvmn5lp0)
-[![Oferteo](https://img.shields.io/badge/★★★★★_5.0-2_opinie_na_Oferteo-398E4A?style=flat-square)](https://www.oferteo.pl/jakub-hyziak-it/firma/7677136)
-![Profile views](https://komarev.com/ghpvc/?username=Jacob22092&color=000000&style=flat-square&label=Profile+Views)
+<table>
+<tr>
+<td valign="top"><img src="./jhit-ascii.svg" width="420" alt="Jakub Hyziak IT — logo w ASCII" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Serie i statystyki kontrybucji Jakuba na GitHubie — odświeżane codziennie" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<h3><code>jakub@github ~ $ ./links.sh</code></h3>
+
+<p><b>Strony WWW · Sieci &amp; VPN · Wsparcie IT · Prywatne AI</b><br>
+<sub>Jednoosobowa firma IT z Krakowa — bez pośredników, Fixed-Price lub SLA, zero vendor lock-in.</sub></p>
+
+[![Strona](https://img.shields.io/badge/Strona-jhyziak.eu-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jhyziak.eu)
+[![Realizacje](https://img.shields.io/badge/Realizacje-PageSpeed_98%2F100-398E4A?style=for-the-badge&logo=lighthouse&logoColor=white)](https://www.jhyziak.eu/realizacje)
+[![Email](https://img.shields.io/badge/Email-kontakt%40jhyziak.eu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@jhyziak.eu)
+[![Telefon](https://img.shields.io/badge/Telefon-+48_797_589_367-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+48797589367)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jakub--hyziak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-hyziak/)
+[![Instagram](https://img.shields.io/badge/Instagram-jakubhyziakit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jakubhyziakit)
+[![Facebook](https://img.shields.io/badge/Facebook-Jakubhyziakit-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Jakubhyziakit/61593642457807/)
+[![Konsultacja](https://img.shields.io/badge/⚡_Bezpłatna_konsultacja-30_min-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://www.jhyziak.eu/#kontakt)
+
+<br>
 
 </div>
 
-<br/>
+<details>
+<summary><code>jakub@github ~ $ cat o-firmie.md</code></summary>
 
----
-
-## O firmie
+<br>
 
 Prowadzę jednoosobową firmę informatyczną w Krakowie. Bez agencji, bez pośredników, bez account managerów — **rozmawiasz i pracujesz bezpośrednio ze mną**, od pierwszej rozmowy technicznej po wdrożenie produkcyjne.
 
@@ -40,61 +62,7 @@ Prowadzę jednoosobową firmę informatyczną w Krakowie. Bez agencji, bez pośr
 - 💳 Rozliczenia B2B: **Fixed-Price** albo abonament **SLA** — zawsze umowa i NDA przed startem
 - 🔓 **Zero vendor lock-in** — pełna dokumentacja, kody źródłowe i hasła trafiają do klienta
 - 📍 Kraków, PL — zdalnie cała Polska i UE, on-site Małopolska
+- 📈 Google PageSpeed: wydajność **83 → 98**, dostępność **84 → 96**, sprawdzone metody **100**, SEO **100** — case studies na [jhyziak.eu/realizacje](https://www.jhyziak.eu/realizacje)
+- ★ **5.0** — [10 opinii na Google](https://www.google.com/search?kgmid=/g/11nvmn5lp0) · [2 opinie na Oferteo](https://www.oferteo.pl/jakub-hyziak-it/firma/7677136)
 
-<br/>
-
----
-
-## Wyniki, nie obietnice
-
-Realne, sprawdzalne wyniki Google PageSpeed Insights — nie deklaracje. Pełne case studies na [jhyziak.eu/realizacje](https://www.jhyziak.eu/realizacje).
-
-![Wydajność](https://img.shields.io/badge/WYDAJNOŚĆ-83_→_98-398E4A?style=flat-square)
-![Dostępność](https://img.shields.io/badge/DOSTĘPNOŚĆ-84_→_96-398E4A?style=flat-square)
-![Best Practices](https://img.shields.io/badge/SPRAWDZONE_METODY-100-398E4A?style=flat-square)
-![SEO](https://img.shields.io/badge/SEO-100-398E4A?style=flat-square)
-
-<br/>
-
----
-
-## Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,git,vercel,figma,bash,python,docker&theme=dark" height="48"/>
-</p>
-
-<br/>
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jacob22092&theme=dark&hide_border=true&background=0A0A0A&stroke=FFFFFF&ring=398E4A&fire=398E4A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=398E4A&sideLabels=999999&dates=666666" height="165" alt="Statystyki serii commitów na GitHubie"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jacob22092/Jacob22092/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jacob22092/Jacob22092/output/github-contribution-grid-snake.svg" />
-  <img alt="Animacja aktywności na GitHubie" src="https://raw.githubusercontent.com/Jacob22092/Jacob22092/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-<br/>
-
----
-
-## Kontakt
-
-<div align="center">
-
-[![jhyziak.eu](https://img.shields.io/badge/jhyziak.eu-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jhyziak.eu/)
-[![Email](https://img.shields.io/badge/kontakt%40jhyziak.eu-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:kontakt@jhyziak.eu)
-[![Telefon](https://img.shields.io/badge/+48_797_589_367-000000?style=flat-square&logo=whatsapp&logoColor=white)](tel:+48797589367)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-hyziak/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jakubhyziakit)
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/people/Jakubhyziakit/61593642457807/)
-
-<sub>Umów bezpłatną, niezobowiązującą 30-minutową konsultację techniczną przez <a href="https://www.jhyziak.eu/#kontakt">stronę</a>.</sub>
-
-</div>
+</details>

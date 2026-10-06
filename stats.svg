@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="Statystyki kontrybucji GitHub">
+<style>.t{opacity:0;animation:in 0.45s ease-out both}@keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}.b{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:grow 0.6s ease-out both}@keyframes grow{to{transform:scaleY(1)}}@media (prefers-reduced-motion:reduce){.t,.b{opacity:1;transform:none;animation:none}}</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect width="840" height="880" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="839" height="879" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="30" x2="840" y2="30" stroke="#30363d"/>
+<circle cx="20" cy="15.0" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="15.0" r="5" fill="#ffbd2e"/>
+<circle cx="52" cy="15.0" r="5" fill="#27c93f"/>
+<text x="420.0" y="19.0" fill="#7d8590" font-size="12" text-anchor="middle">jakub@github: ~$ ./stats.sh</text>
+<g class="t" style="animation-delay:0.00s">
+<rect x="20.0" y="54" width="392.0" height="150" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="44.0" y="94" fill="#7d8590" font-size="22">$ obecna seria</text>
+<text x="44.0" y="154" font-size="54" font-weight="700" fill="#39d353">—<tspan font-size="24" font-weight="400" fill="#7d8590"></tspan></text>
+<text x="44.0" y="186" fill="#7d8590" font-size="20">—</text>
+</g>
+<g class="t" style="animation-delay:0.15s">
+<rect x="428.0" y="54" width="392.0" height="150" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="452.0" y="94" fill="#7d8590" font-size="22">$ najdłuższa seria</text>
+<text x="452.0" y="154" font-size="54" font-weight="700" fill="#e6edf3">—<tspan font-size="24" font-weight="400" fill="#7d8590"></tspan></text>
+<text x="452.0" y="186" fill="#7d8590" font-size="20">—</text>
+</g>
+<g class="t" style="animation-delay:0.30s">
+<rect x="20.0" y="220" width="392.0" height="150" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="44.0" y="260" fill="#7d8590" font-size="22">$ kontrybucje</text>
+<text x="44.0" y="320" font-size="54" font-weight="700" fill="#e6edf3">—<tspan font-size="24" font-weight="400" fill="#7d8590"></tspan></text>
+<text x="44.0" y="352" fill="#7d8590" font-size="20">w ostatnim roku</text>
+</g>
+<g class="t" style="animation-delay:0.45s">
+<rect x="428.0" y="220" width="392.0" height="150" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="452.0" y="260" fill="#7d8590" font-size="22">$ aktywne dni</text>
+<text x="452.0" y="320" font-size="54" font-weight="700" fill="#e6edf3">—<tspan font-size="24" font-weight="400" fill="#7d8590"></tspan></text>
+<text x="452.0" y="352" fill="#7d8590" font-size="20">0% roku</text>
+</g>
+<g class="t" style="animation-delay:0.60s">
+<rect x="20.0" y="386" width="392.0" height="150" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="44.0" y="426" fill="#7d8590" font-size="22">$ najlepszy dzień</text>
+<text x="44.0" y="486" font-size="54" font-weight="700" fill="#e6edf3">—<tspan font-size="24" font-weight="400" fill="#7d8590"></tspan></text>
+<text x="44.0" y="518" fill="#7d8590" font-size="20">—</text>
+</g>
+<g class="t" style="animation-delay:0.75s">
+<rect x="428.0" y="386" width="392.0" height="150" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="452.0" y="426" fill="#7d8590" font-size="22">$ średnio / aktywny dzień</text>
+<text x="452.0" y="486" font-size="54" font-weight="700" fill="#e6edf3">—<tspan font-size="24" font-weight="400" fill="#7d8590"></tspan></text>
+<text x="452.0" y="518" fill="#7d8590" font-size="20">kontrybucji</text>
+</g>
+<g class="t" style="animation-delay:1.00s">
+<rect x="20" y="552" width="800" height="308" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="44" y="592" fill="#7d8590" font-size="22">$ kontrybucje / miesiąc</text>
+</g>
+<rect class="b" x="55.0" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.30s"><title>2025-10: 0</title></rect>
+<text x="72.9" y="848" fill="#7d8590" font-size="16" text-anchor="middle">paź</text>
+<rect class="b" x="112.8" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.36s"><title>2025-11: 0</title></rect>
+<text x="130.8" y="848" fill="#7d8590" font-size="16" text-anchor="middle">lis</text>
+<rect class="b" x="170.7" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.42s"><title>2025-12: 0</title></rect>
+<text x="188.6" y="848" fill="#7d8590" font-size="16" text-anchor="middle">gru</text>
+<rect class="b" x="228.5" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.48s"><title>2026-01: 0</title></rect>
+<text x="246.5" y="848" fill="#7d8590" font-size="16" text-anchor="middle">sty</text>
+<rect class="b" x="286.4" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.54s"><title>2026-02: 0</title></rect>
+<text x="304.3" y="848" fill="#7d8590" font-size="16" text-anchor="middle">lut</text>
+<rect class="b" x="344.2" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.60s"><title>2026-03: 0</title></rect>
+<text x="362.2" y="848" fill="#7d8590" font-size="16" text-anchor="middle">mar</text>
+<rect class="b" x="402.1" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.66s"><title>2026-04: 0</title></rect>
+<text x="420.0" y="848" fill="#7d8590" font-size="16" text-anchor="middle">kwi</text>
+<rect class="b" x="459.9" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.72s"><title>2026-05: 0</title></rect>
+<text x="477.8" y="848" fill="#7d8590" font-size="16" text-anchor="middle">maj</text>
+<rect class="b" x="517.8" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.78s"><title>2026-06: 0</title></rect>
+<text x="535.7" y="848" fill="#7d8590" font-size="16" text-anchor="middle">cze</text>
+<rect class="b" x="575.6" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.84s"><title>2026-07: 0</title></rect>
+<text x="593.5" y="848" fill="#7d8590" font-size="16" text-anchor="middle">lip</text>
+<rect class="b" x="633.5" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.90s"><title>2026-08: 0</title></rect>
+<text x="651.4" y="848" fill="#7d8590" font-size="16" text-anchor="middle">sie</text>
+<rect class="b" x="691.3" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:1.96s"><title>2026-09: 0</title></rect>
+<text x="709.2" y="848" fill="#7d8590" font-size="16" text-anchor="middle">wrz</text>
+<rect class="b" x="749.1" y="818.0" width="35.9" height="2.0" rx="3" fill="#26a641" style="animation-delay:2.02s"><title>2026-10: 0</title></rect>
+<text x="767.1" y="848" fill="#7d8590" font-size="16" text-anchor="middle">paź</text>
+</svg>

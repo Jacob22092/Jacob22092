@@ -1,0 +1,6 @@
+# Tylko lokalnie, przy zmianie zdjęcia / logo (nie potrzebne w GitHub Actions)
+-r requirements.txt
+pillow
+numpy
+opencv-python
+rembg
