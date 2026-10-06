@@ -1,401 +1,387 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1108" height="287" viewBox="0 0 1108 287" role="img" aria-label="Kalendarz kontrybucji GitHub Jacob22092">
-<style>@keyframes drop{from{opacity:0;transform:translateY(-10px)}to{opacity:1;transform:none}}.c{opacity:0;transform-box:fill-box;animation:drop .5s cubic-bezier(.2,.8,.2,1) forwards}@keyframes fade{from{opacity:0}to{opacity:1}}.f{opacity:0;animation:fade .6s ease-out forwards}</style>
-<rect x="0.5" y="0.5" width="1107" height="286" rx="12" fill="#0d1117" stroke="#30363d"/>
-<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
-<text x="24" y="34" font-size="15" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Jacob22092</tspan><tspan fill="#8b949e"> · </tspan>aktywność na GitHubie</text>
-<text x="69.5" y="64" font-size="12" fill="#8b949e">paź</text>
-<text x="126.5" y="64" font-size="12" fill="#8b949e">lis</text>
-<text x="221.5" y="64" font-size="12" fill="#8b949e">gru</text>
-<text x="297.5" y="64" font-size="12" fill="#8b949e">sty</text>
-<text x="392.5" y="64" font-size="12" fill="#8b949e">lut</text>
-<text x="468.5" y="64" font-size="12" fill="#8b949e">mar</text>
-<text x="544.5" y="64" font-size="12" fill="#8b949e">kwi</text>
-<text x="620.5" y="64" font-size="12" fill="#8b949e">maj</text>
-<text x="715.5" y="64" font-size="12" fill="#8b949e">cze</text>
-<text x="791.5" y="64" font-size="12" fill="#8b949e">lip</text>
-<text x="867.5" y="64" font-size="12" fill="#8b949e">sie</text>
-<text x="962.5" y="64" font-size="12" fill="#8b949e">wrz</text>
-<text x="1038.5" y="64" font-size="12" fill="#8b949e">paź</text>
-<text x="59.5" y="105" font-size="12" text-anchor="end" fill="#8b949e">pn</text>
-<text x="59.5" y="143" font-size="12" text-anchor="end" fill="#8b949e">śr</text>
-<text x="59.5" y="181" font-size="12" text-anchor="end" fill="#8b949e">pt</text>
-<rect class="c" x="69.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.000s"><title>0 kontrybucji · 5 paź 2025</title></rect>
-<rect class="c" x="69.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.022s"><title>0 kontrybucji · 6 paź 2025</title></rect>
-<rect class="c" x="69.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.044s"><title>0 kontrybucji · 7 paź 2025</title></rect>
-<rect class="c" x="69.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.066s"><title>0 kontrybucji · 8 paź 2025</title></rect>
-<rect class="c" x="69.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.088s"><title>0 kontrybucji · 9 paź 2025</title></rect>
-<rect class="c" x="69.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.110s"><title>0 kontrybucji · 10 paź 2025</title></rect>
-<rect class="c" x="69.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.132s"><title>0 kontrybucji · 11 paź 2025</title></rect>
-<rect class="c" x="88.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.022s"><title>0 kontrybucji · 12 paź 2025</title></rect>
-<rect class="c" x="88.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.044s"><title>0 kontrybucji · 13 paź 2025</title></rect>
-<rect class="c" x="88.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.066s"><title>0 kontrybucji · 14 paź 2025</title></rect>
-<rect class="c" x="88.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.088s"><title>0 kontrybucji · 15 paź 2025</title></rect>
-<rect class="c" x="88.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.110s"><title>0 kontrybucji · 16 paź 2025</title></rect>
-<rect class="c" x="88.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.132s"><title>0 kontrybucji · 17 paź 2025</title></rect>
-<rect class="c" x="88.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.154s"><title>0 kontrybucji · 18 paź 2025</title></rect>
-<rect class="c" x="107.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.044s"><title>0 kontrybucji · 19 paź 2025</title></rect>
-<rect class="c" x="107.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.066s"><title>0 kontrybucji · 20 paź 2025</title></rect>
-<rect class="c" x="107.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.088s"><title>0 kontrybucji · 21 paź 2025</title></rect>
-<rect class="c" x="107.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.110s"><title>0 kontrybucji · 22 paź 2025</title></rect>
-<rect class="c" x="107.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.132s"><title>0 kontrybucji · 23 paź 2025</title></rect>
-<rect class="c" x="107.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.154s"><title>0 kontrybucji · 24 paź 2025</title></rect>
-<rect class="c" x="107.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.176s"><title>0 kontrybucji · 25 paź 2025</title></rect>
-<rect class="c" x="126.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.066s"><title>0 kontrybucji · 26 paź 2025</title></rect>
-<rect class="c" x="126.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.088s"><title>0 kontrybucji · 27 paź 2025</title></rect>
-<rect class="c" x="126.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.110s"><title>0 kontrybucji · 28 paź 2025</title></rect>
-<rect class="c" x="126.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.132s"><title>0 kontrybucji · 29 paź 2025</title></rect>
-<rect class="c" x="126.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.154s"><title>0 kontrybucji · 30 paź 2025</title></rect>
-<rect class="c" x="126.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.176s"><title>0 kontrybucji · 31 paź 2025</title></rect>
-<rect class="c" x="126.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.198s"><title>0 kontrybucji · 1 lis 2025</title></rect>
-<rect class="c" x="145.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.088s"><title>0 kontrybucji · 2 lis 2025</title></rect>
-<rect class="c" x="145.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.110s"><title>0 kontrybucji · 3 lis 2025</title></rect>
-<rect class="c" x="145.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.132s"><title>0 kontrybucji · 4 lis 2025</title></rect>
-<rect class="c" x="145.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.154s"><title>0 kontrybucji · 5 lis 2025</title></rect>
-<rect class="c" x="145.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.176s"><title>0 kontrybucji · 6 lis 2025</title></rect>
-<rect class="c" x="145.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.198s"><title>0 kontrybucji · 7 lis 2025</title></rect>
-<rect class="c" x="145.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.220s"><title>0 kontrybucji · 8 lis 2025</title></rect>
-<rect class="c" x="164.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.110s"><title>0 kontrybucji · 9 lis 2025</title></rect>
-<rect class="c" x="164.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.132s"><title>0 kontrybucji · 10 lis 2025</title></rect>
-<rect class="c" x="164.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.154s"><title>0 kontrybucji · 11 lis 2025</title></rect>
-<rect class="c" x="164.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.176s"><title>0 kontrybucji · 12 lis 2025</title></rect>
-<rect class="c" x="164.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.198s"><title>0 kontrybucji · 13 lis 2025</title></rect>
-<rect class="c" x="164.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.220s"><title>0 kontrybucji · 14 lis 2025</title></rect>
-<rect class="c" x="164.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.242s"><title>0 kontrybucji · 15 lis 2025</title></rect>
-<rect class="c" x="183.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.132s"><title>0 kontrybucji · 16 lis 2025</title></rect>
-<rect class="c" x="183.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.154s"><title>0 kontrybucji · 17 lis 2025</title></rect>
-<rect class="c" x="183.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.176s"><title>0 kontrybucji · 18 lis 2025</title></rect>
-<rect class="c" x="183.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.198s"><title>0 kontrybucji · 19 lis 2025</title></rect>
-<rect class="c" x="183.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.220s"><title>0 kontrybucji · 20 lis 2025</title></rect>
-<rect class="c" x="183.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.242s"><title>0 kontrybucji · 21 lis 2025</title></rect>
-<rect class="c" x="183.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.264s"><title>0 kontrybucji · 22 lis 2025</title></rect>
-<rect class="c" x="202.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.154s"><title>0 kontrybucji · 23 lis 2025</title></rect>
-<rect class="c" x="202.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.176s"><title>0 kontrybucji · 24 lis 2025</title></rect>
-<rect class="c" x="202.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.198s"><title>0 kontrybucji · 25 lis 2025</title></rect>
-<rect class="c" x="202.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.220s"><title>0 kontrybucji · 26 lis 2025</title></rect>
-<rect class="c" x="202.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.242s"><title>0 kontrybucji · 27 lis 2025</title></rect>
-<rect class="c" x="202.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.264s"><title>0 kontrybucji · 28 lis 2025</title></rect>
-<rect class="c" x="202.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.286s"><title>0 kontrybucji · 29 lis 2025</title></rect>
-<rect class="c" x="221.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.176s"><title>0 kontrybucji · 30 lis 2025</title></rect>
-<rect class="c" x="221.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.198s"><title>0 kontrybucji · 1 gru 2025</title></rect>
-<rect class="c" x="221.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.220s"><title>0 kontrybucji · 2 gru 2025</title></rect>
-<rect class="c" x="221.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.242s"><title>0 kontrybucji · 3 gru 2025</title></rect>
-<rect class="c" x="221.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.264s"><title>0 kontrybucji · 4 gru 2025</title></rect>
-<rect class="c" x="221.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.286s"><title>0 kontrybucji · 5 gru 2025</title></rect>
-<rect class="c" x="221.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.308s"><title>0 kontrybucji · 6 gru 2025</title></rect>
-<rect class="c" x="240.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.198s"><title>0 kontrybucji · 7 gru 2025</title></rect>
-<rect class="c" x="240.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.220s"><title>0 kontrybucji · 8 gru 2025</title></rect>
-<rect class="c" x="240.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.242s"><title>0 kontrybucji · 9 gru 2025</title></rect>
-<rect class="c" x="240.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.264s"><title>0 kontrybucji · 10 gru 2025</title></rect>
-<rect class="c" x="240.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.286s"><title>0 kontrybucji · 11 gru 2025</title></rect>
-<rect class="c" x="240.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.308s"><title>0 kontrybucji · 12 gru 2025</title></rect>
-<rect class="c" x="240.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.330s"><title>0 kontrybucji · 13 gru 2025</title></rect>
-<rect class="c" x="259.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.220s"><title>0 kontrybucji · 14 gru 2025</title></rect>
-<rect class="c" x="259.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.242s"><title>0 kontrybucji · 15 gru 2025</title></rect>
-<rect class="c" x="259.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.264s"><title>0 kontrybucji · 16 gru 2025</title></rect>
-<rect class="c" x="259.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.286s"><title>0 kontrybucji · 17 gru 2025</title></rect>
-<rect class="c" x="259.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.308s"><title>0 kontrybucji · 18 gru 2025</title></rect>
-<rect class="c" x="259.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.330s"><title>0 kontrybucji · 19 gru 2025</title></rect>
-<rect class="c" x="259.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.352s"><title>0 kontrybucji · 20 gru 2025</title></rect>
-<rect class="c" x="278.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.242s"><title>0 kontrybucji · 21 gru 2025</title></rect>
-<rect class="c" x="278.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.264s"><title>0 kontrybucji · 22 gru 2025</title></rect>
-<rect class="c" x="278.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.286s"><title>0 kontrybucji · 23 gru 2025</title></rect>
-<rect class="c" x="278.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.308s"><title>0 kontrybucji · 24 gru 2025</title></rect>
-<rect class="c" x="278.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.330s"><title>0 kontrybucji · 25 gru 2025</title></rect>
-<rect class="c" x="278.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.352s"><title>0 kontrybucji · 26 gru 2025</title></rect>
-<rect class="c" x="278.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.374s"><title>0 kontrybucji · 27 gru 2025</title></rect>
-<rect class="c" x="297.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.264s"><title>0 kontrybucji · 28 gru 2025</title></rect>
-<rect class="c" x="297.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.286s"><title>0 kontrybucji · 29 gru 2025</title></rect>
-<rect class="c" x="297.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.308s"><title>0 kontrybucji · 30 gru 2025</title></rect>
-<rect class="c" x="297.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.330s"><title>0 kontrybucji · 31 gru 2025</title></rect>
-<rect class="c" x="297.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.352s"><title>0 kontrybucji · 1 sty 2026</title></rect>
-<rect class="c" x="297.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.374s"><title>0 kontrybucji · 2 sty 2026</title></rect>
-<rect class="c" x="297.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.396s"><title>0 kontrybucji · 3 sty 2026</title></rect>
-<rect class="c" x="316.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.286s"><title>0 kontrybucji · 4 sty 2026</title></rect>
-<rect class="c" x="316.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.308s"><title>0 kontrybucji · 5 sty 2026</title></rect>
-<rect class="c" x="316.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.330s"><title>0 kontrybucji · 6 sty 2026</title></rect>
-<rect class="c" x="316.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.352s"><title>0 kontrybucji · 7 sty 2026</title></rect>
-<rect class="c" x="316.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.374s"><title>0 kontrybucji · 8 sty 2026</title></rect>
-<rect class="c" x="316.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.396s"><title>0 kontrybucji · 9 sty 2026</title></rect>
-<rect class="c" x="316.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.418s"><title>0 kontrybucji · 10 sty 2026</title></rect>
-<rect class="c" x="335.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.308s"><title>0 kontrybucji · 11 sty 2026</title></rect>
-<rect class="c" x="335.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.330s"><title>0 kontrybucji · 12 sty 2026</title></rect>
-<rect class="c" x="335.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.352s"><title>0 kontrybucji · 13 sty 2026</title></rect>
-<rect class="c" x="335.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.374s"><title>0 kontrybucji · 14 sty 2026</title></rect>
-<rect class="c" x="335.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.396s"><title>0 kontrybucji · 15 sty 2026</title></rect>
-<rect class="c" x="335.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.418s"><title>0 kontrybucji · 16 sty 2026</title></rect>
-<rect class="c" x="335.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.440s"><title>0 kontrybucji · 17 sty 2026</title></rect>
-<rect class="c" x="354.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.330s"><title>0 kontrybucji · 18 sty 2026</title></rect>
-<rect class="c" x="354.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.352s"><title>0 kontrybucji · 19 sty 2026</title></rect>
-<rect class="c" x="354.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.374s"><title>0 kontrybucji · 20 sty 2026</title></rect>
-<rect class="c" x="354.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.396s"><title>0 kontrybucji · 21 sty 2026</title></rect>
-<rect class="c" x="354.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.418s"><title>0 kontrybucji · 22 sty 2026</title></rect>
-<rect class="c" x="354.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.440s"><title>0 kontrybucji · 23 sty 2026</title></rect>
-<rect class="c" x="354.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.462s"><title>0 kontrybucji · 24 sty 2026</title></rect>
-<rect class="c" x="373.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.352s"><title>0 kontrybucji · 25 sty 2026</title></rect>
-<rect class="c" x="373.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.374s"><title>0 kontrybucji · 26 sty 2026</title></rect>
-<rect class="c" x="373.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.396s"><title>0 kontrybucji · 27 sty 2026</title></rect>
-<rect class="c" x="373.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.418s"><title>0 kontrybucji · 28 sty 2026</title></rect>
-<rect class="c" x="373.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.440s"><title>0 kontrybucji · 29 sty 2026</title></rect>
-<rect class="c" x="373.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.462s"><title>0 kontrybucji · 30 sty 2026</title></rect>
-<rect class="c" x="373.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.484s"><title>0 kontrybucji · 31 sty 2026</title></rect>
-<rect class="c" x="392.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.374s"><title>0 kontrybucji · 1 lut 2026</title></rect>
-<rect class="c" x="392.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.396s"><title>0 kontrybucji · 2 lut 2026</title></rect>
-<rect class="c" x="392.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.418s"><title>0 kontrybucji · 3 lut 2026</title></rect>
-<rect class="c" x="392.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.440s"><title>0 kontrybucji · 4 lut 2026</title></rect>
-<rect class="c" x="392.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.462s"><title>0 kontrybucji · 5 lut 2026</title></rect>
-<rect class="c" x="392.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.484s"><title>0 kontrybucji · 6 lut 2026</title></rect>
-<rect class="c" x="392.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.506s"><title>0 kontrybucji · 7 lut 2026</title></rect>
-<rect class="c" x="411.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.396s"><title>0 kontrybucji · 8 lut 2026</title></rect>
-<rect class="c" x="411.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.418s"><title>0 kontrybucji · 9 lut 2026</title></rect>
-<rect class="c" x="411.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.440s"><title>0 kontrybucji · 10 lut 2026</title></rect>
-<rect class="c" x="411.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.462s"><title>0 kontrybucji · 11 lut 2026</title></rect>
-<rect class="c" x="411.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.484s"><title>0 kontrybucji · 12 lut 2026</title></rect>
-<rect class="c" x="411.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.506s"><title>0 kontrybucji · 13 lut 2026</title></rect>
-<rect class="c" x="411.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.528s"><title>0 kontrybucji · 14 lut 2026</title></rect>
-<rect class="c" x="430.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.418s"><title>0 kontrybucji · 15 lut 2026</title></rect>
-<rect class="c" x="430.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.440s"><title>0 kontrybucji · 16 lut 2026</title></rect>
-<rect class="c" x="430.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.462s"><title>0 kontrybucji · 17 lut 2026</title></rect>
-<rect class="c" x="430.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.484s"><title>0 kontrybucji · 18 lut 2026</title></rect>
-<rect class="c" x="430.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.506s"><title>0 kontrybucji · 19 lut 2026</title></rect>
-<rect class="c" x="430.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.528s"><title>0 kontrybucji · 20 lut 2026</title></rect>
-<rect class="c" x="430.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.550s"><title>0 kontrybucji · 21 lut 2026</title></rect>
-<rect class="c" x="449.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.440s"><title>0 kontrybucji · 22 lut 2026</title></rect>
-<rect class="c" x="449.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.462s"><title>0 kontrybucji · 23 lut 2026</title></rect>
-<rect class="c" x="449.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.484s"><title>0 kontrybucji · 24 lut 2026</title></rect>
-<rect class="c" x="449.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.506s"><title>0 kontrybucji · 25 lut 2026</title></rect>
-<rect class="c" x="449.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.528s"><title>0 kontrybucji · 26 lut 2026</title></rect>
-<rect class="c" x="449.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.550s"><title>0 kontrybucji · 27 lut 2026</title></rect>
-<rect class="c" x="449.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.572s"><title>0 kontrybucji · 28 lut 2026</title></rect>
-<rect class="c" x="468.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.462s"><title>0 kontrybucji · 1 mar 2026</title></rect>
-<rect class="c" x="468.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.484s"><title>0 kontrybucji · 2 mar 2026</title></rect>
-<rect class="c" x="468.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.506s"><title>0 kontrybucji · 3 mar 2026</title></rect>
-<rect class="c" x="468.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.528s"><title>0 kontrybucji · 4 mar 2026</title></rect>
-<rect class="c" x="468.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.550s"><title>0 kontrybucji · 5 mar 2026</title></rect>
-<rect class="c" x="468.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.572s"><title>0 kontrybucji · 6 mar 2026</title></rect>
-<rect class="c" x="468.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.594s"><title>0 kontrybucji · 7 mar 2026</title></rect>
-<rect class="c" x="487.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.484s"><title>0 kontrybucji · 8 mar 2026</title></rect>
-<rect class="c" x="487.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.506s"><title>0 kontrybucji · 9 mar 2026</title></rect>
-<rect class="c" x="487.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.528s"><title>0 kontrybucji · 10 mar 2026</title></rect>
-<rect class="c" x="487.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.550s"><title>0 kontrybucji · 11 mar 2026</title></rect>
-<rect class="c" x="487.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.572s"><title>0 kontrybucji · 12 mar 2026</title></rect>
-<rect class="c" x="487.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.594s"><title>0 kontrybucji · 13 mar 2026</title></rect>
-<rect class="c" x="487.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.616s"><title>0 kontrybucji · 14 mar 2026</title></rect>
-<rect class="c" x="506.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.506s"><title>0 kontrybucji · 15 mar 2026</title></rect>
-<rect class="c" x="506.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.528s"><title>0 kontrybucji · 16 mar 2026</title></rect>
-<rect class="c" x="506.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.550s"><title>0 kontrybucji · 17 mar 2026</title></rect>
-<rect class="c" x="506.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.572s"><title>0 kontrybucji · 18 mar 2026</title></rect>
-<rect class="c" x="506.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.594s"><title>0 kontrybucji · 19 mar 2026</title></rect>
-<rect class="c" x="506.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.616s"><title>0 kontrybucji · 20 mar 2026</title></rect>
-<rect class="c" x="506.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.638s"><title>0 kontrybucji · 21 mar 2026</title></rect>
-<rect class="c" x="525.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.528s"><title>0 kontrybucji · 22 mar 2026</title></rect>
-<rect class="c" x="525.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.550s"><title>0 kontrybucji · 23 mar 2026</title></rect>
-<rect class="c" x="525.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.572s"><title>0 kontrybucji · 24 mar 2026</title></rect>
-<rect class="c" x="525.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.594s"><title>0 kontrybucji · 25 mar 2026</title></rect>
-<rect class="c" x="525.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.616s"><title>0 kontrybucji · 26 mar 2026</title></rect>
-<rect class="c" x="525.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.638s"><title>0 kontrybucji · 27 mar 2026</title></rect>
-<rect class="c" x="525.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.660s"><title>0 kontrybucji · 28 mar 2026</title></rect>
-<rect class="c" x="544.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.550s"><title>0 kontrybucji · 29 mar 2026</title></rect>
-<rect class="c" x="544.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.572s"><title>0 kontrybucji · 30 mar 2026</title></rect>
-<rect class="c" x="544.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.594s"><title>0 kontrybucji · 31 mar 2026</title></rect>
-<rect class="c" x="544.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.616s"><title>0 kontrybucji · 1 kwi 2026</title></rect>
-<rect class="c" x="544.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.638s"><title>0 kontrybucji · 2 kwi 2026</title></rect>
-<rect class="c" x="544.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.660s"><title>0 kontrybucji · 3 kwi 2026</title></rect>
-<rect class="c" x="544.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.682s"><title>0 kontrybucji · 4 kwi 2026</title></rect>
-<rect class="c" x="563.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.572s"><title>0 kontrybucji · 5 kwi 2026</title></rect>
-<rect class="c" x="563.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.594s"><title>0 kontrybucji · 6 kwi 2026</title></rect>
-<rect class="c" x="563.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.616s"><title>0 kontrybucji · 7 kwi 2026</title></rect>
-<rect class="c" x="563.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.638s"><title>0 kontrybucji · 8 kwi 2026</title></rect>
-<rect class="c" x="563.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.660s"><title>0 kontrybucji · 9 kwi 2026</title></rect>
-<rect class="c" x="563.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.682s"><title>0 kontrybucji · 10 kwi 2026</title></rect>
-<rect class="c" x="563.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.704s"><title>0 kontrybucji · 11 kwi 2026</title></rect>
-<rect class="c" x="582.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.594s"><title>0 kontrybucji · 12 kwi 2026</title></rect>
-<rect class="c" x="582.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.616s"><title>0 kontrybucji · 13 kwi 2026</title></rect>
-<rect class="c" x="582.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.638s"><title>0 kontrybucji · 14 kwi 2026</title></rect>
-<rect class="c" x="582.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.660s"><title>0 kontrybucji · 15 kwi 2026</title></rect>
-<rect class="c" x="582.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.682s"><title>0 kontrybucji · 16 kwi 2026</title></rect>
-<rect class="c" x="582.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.704s"><title>0 kontrybucji · 17 kwi 2026</title></rect>
-<rect class="c" x="582.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.726s"><title>0 kontrybucji · 18 kwi 2026</title></rect>
-<rect class="c" x="601.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.616s"><title>0 kontrybucji · 19 kwi 2026</title></rect>
-<rect class="c" x="601.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.638s"><title>0 kontrybucji · 20 kwi 2026</title></rect>
-<rect class="c" x="601.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.660s"><title>0 kontrybucji · 21 kwi 2026</title></rect>
-<rect class="c" x="601.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.682s"><title>0 kontrybucji · 22 kwi 2026</title></rect>
-<rect class="c" x="601.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.704s"><title>0 kontrybucji · 23 kwi 2026</title></rect>
-<rect class="c" x="601.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.726s"><title>0 kontrybucji · 24 kwi 2026</title></rect>
-<rect class="c" x="601.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.748s"><title>0 kontrybucji · 25 kwi 2026</title></rect>
-<rect class="c" x="620.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.638s"><title>0 kontrybucji · 26 kwi 2026</title></rect>
-<rect class="c" x="620.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.660s"><title>0 kontrybucji · 27 kwi 2026</title></rect>
-<rect class="c" x="620.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.682s"><title>0 kontrybucji · 28 kwi 2026</title></rect>
-<rect class="c" x="620.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.704s"><title>0 kontrybucji · 29 kwi 2026</title></rect>
-<rect class="c" x="620.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.726s"><title>0 kontrybucji · 30 kwi 2026</title></rect>
-<rect class="c" x="620.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.748s"><title>0 kontrybucji · 1 maj 2026</title></rect>
-<rect class="c" x="620.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.770s"><title>0 kontrybucji · 2 maj 2026</title></rect>
-<rect class="c" x="639.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.660s"><title>0 kontrybucji · 3 maj 2026</title></rect>
-<rect class="c" x="639.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.682s"><title>0 kontrybucji · 4 maj 2026</title></rect>
-<rect class="c" x="639.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.704s"><title>0 kontrybucji · 5 maj 2026</title></rect>
-<rect class="c" x="639.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.726s"><title>0 kontrybucji · 6 maj 2026</title></rect>
-<rect class="c" x="639.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.748s"><title>0 kontrybucji · 7 maj 2026</title></rect>
-<rect class="c" x="639.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.770s"><title>0 kontrybucji · 8 maj 2026</title></rect>
-<rect class="c" x="639.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.792s"><title>0 kontrybucji · 9 maj 2026</title></rect>
-<rect class="c" x="658.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.682s"><title>0 kontrybucji · 10 maj 2026</title></rect>
-<rect class="c" x="658.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.704s"><title>0 kontrybucji · 11 maj 2026</title></rect>
-<rect class="c" x="658.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.726s"><title>0 kontrybucji · 12 maj 2026</title></rect>
-<rect class="c" x="658.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.748s"><title>0 kontrybucji · 13 maj 2026</title></rect>
-<rect class="c" x="658.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.770s"><title>0 kontrybucji · 14 maj 2026</title></rect>
-<rect class="c" x="658.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.792s"><title>0 kontrybucji · 15 maj 2026</title></rect>
-<rect class="c" x="658.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.814s"><title>0 kontrybucji · 16 maj 2026</title></rect>
-<rect class="c" x="677.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.704s"><title>0 kontrybucji · 17 maj 2026</title></rect>
-<rect class="c" x="677.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.726s"><title>0 kontrybucji · 18 maj 2026</title></rect>
-<rect class="c" x="677.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.748s"><title>0 kontrybucji · 19 maj 2026</title></rect>
-<rect class="c" x="677.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.770s"><title>0 kontrybucji · 20 maj 2026</title></rect>
-<rect class="c" x="677.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.792s"><title>0 kontrybucji · 21 maj 2026</title></rect>
-<rect class="c" x="677.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.814s"><title>0 kontrybucji · 22 maj 2026</title></rect>
-<rect class="c" x="677.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.836s"><title>0 kontrybucji · 23 maj 2026</title></rect>
-<rect class="c" x="696.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.726s"><title>0 kontrybucji · 24 maj 2026</title></rect>
-<rect class="c" x="696.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.748s"><title>0 kontrybucji · 25 maj 2026</title></rect>
-<rect class="c" x="696.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.770s"><title>0 kontrybucji · 26 maj 2026</title></rect>
-<rect class="c" x="696.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.792s"><title>0 kontrybucji · 27 maj 2026</title></rect>
-<rect class="c" x="696.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.814s"><title>0 kontrybucji · 28 maj 2026</title></rect>
-<rect class="c" x="696.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.836s"><title>0 kontrybucji · 29 maj 2026</title></rect>
-<rect class="c" x="696.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.858s"><title>0 kontrybucji · 30 maj 2026</title></rect>
-<rect class="c" x="715.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.748s"><title>0 kontrybucji · 31 maj 2026</title></rect>
-<rect class="c" x="715.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.770s"><title>0 kontrybucji · 1 cze 2026</title></rect>
-<rect class="c" x="715.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.792s"><title>0 kontrybucji · 2 cze 2026</title></rect>
-<rect class="c" x="715.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.814s"><title>0 kontrybucji · 3 cze 2026</title></rect>
-<rect class="c" x="715.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.836s"><title>0 kontrybucji · 4 cze 2026</title></rect>
-<rect class="c" x="715.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.858s"><title>0 kontrybucji · 5 cze 2026</title></rect>
-<rect class="c" x="715.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.880s"><title>0 kontrybucji · 6 cze 2026</title></rect>
-<rect class="c" x="734.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.770s"><title>0 kontrybucji · 7 cze 2026</title></rect>
-<rect class="c" x="734.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.792s"><title>0 kontrybucji · 8 cze 2026</title></rect>
-<rect class="c" x="734.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.814s"><title>0 kontrybucji · 9 cze 2026</title></rect>
-<rect class="c" x="734.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.836s"><title>0 kontrybucji · 10 cze 2026</title></rect>
-<rect class="c" x="734.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.858s"><title>0 kontrybucji · 11 cze 2026</title></rect>
-<rect class="c" x="734.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.880s"><title>0 kontrybucji · 12 cze 2026</title></rect>
-<rect class="c" x="734.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.902s"><title>0 kontrybucji · 13 cze 2026</title></rect>
-<rect class="c" x="753.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.792s"><title>0 kontrybucji · 14 cze 2026</title></rect>
-<rect class="c" x="753.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.814s"><title>0 kontrybucji · 15 cze 2026</title></rect>
-<rect class="c" x="753.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.836s"><title>0 kontrybucji · 16 cze 2026</title></rect>
-<rect class="c" x="753.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.858s"><title>0 kontrybucji · 17 cze 2026</title></rect>
-<rect class="c" x="753.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.880s"><title>0 kontrybucji · 18 cze 2026</title></rect>
-<rect class="c" x="753.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.902s"><title>0 kontrybucji · 19 cze 2026</title></rect>
-<rect class="c" x="753.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.924s"><title>0 kontrybucji · 20 cze 2026</title></rect>
-<rect class="c" x="772.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.814s"><title>0 kontrybucji · 21 cze 2026</title></rect>
-<rect class="c" x="772.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.836s"><title>0 kontrybucji · 22 cze 2026</title></rect>
-<rect class="c" x="772.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.858s"><title>0 kontrybucji · 23 cze 2026</title></rect>
-<rect class="c" x="772.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.880s"><title>0 kontrybucji · 24 cze 2026</title></rect>
-<rect class="c" x="772.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.902s"><title>0 kontrybucji · 25 cze 2026</title></rect>
-<rect class="c" x="772.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.924s"><title>0 kontrybucji · 26 cze 2026</title></rect>
-<rect class="c" x="772.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.946s"><title>0 kontrybucji · 27 cze 2026</title></rect>
-<rect class="c" x="791.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.836s"><title>0 kontrybucji · 28 cze 2026</title></rect>
-<rect class="c" x="791.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.858s"><title>0 kontrybucji · 29 cze 2026</title></rect>
-<rect class="c" x="791.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.880s"><title>0 kontrybucji · 30 cze 2026</title></rect>
-<rect class="c" x="791.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.902s"><title>0 kontrybucji · 1 lip 2026</title></rect>
-<rect class="c" x="791.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.924s"><title>0 kontrybucji · 2 lip 2026</title></rect>
-<rect class="c" x="791.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.946s"><title>0 kontrybucji · 3 lip 2026</title></rect>
-<rect class="c" x="791.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.968s"><title>0 kontrybucji · 4 lip 2026</title></rect>
-<rect class="c" x="810.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.858s"><title>0 kontrybucji · 5 lip 2026</title></rect>
-<rect class="c" x="810.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.880s"><title>0 kontrybucji · 6 lip 2026</title></rect>
-<rect class="c" x="810.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.902s"><title>0 kontrybucji · 7 lip 2026</title></rect>
-<rect class="c" x="810.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.924s"><title>0 kontrybucji · 8 lip 2026</title></rect>
-<rect class="c" x="810.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.946s"><title>0 kontrybucji · 9 lip 2026</title></rect>
-<rect class="c" x="810.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.968s"><title>0 kontrybucji · 10 lip 2026</title></rect>
-<rect class="c" x="810.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.990s"><title>0 kontrybucji · 11 lip 2026</title></rect>
-<rect class="c" x="829.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.880s"><title>0 kontrybucji · 12 lip 2026</title></rect>
-<rect class="c" x="829.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.902s"><title>0 kontrybucji · 13 lip 2026</title></rect>
-<rect class="c" x="829.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.924s"><title>0 kontrybucji · 14 lip 2026</title></rect>
-<rect class="c" x="829.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.946s"><title>0 kontrybucji · 15 lip 2026</title></rect>
-<rect class="c" x="829.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.968s"><title>0 kontrybucji · 16 lip 2026</title></rect>
-<rect class="c" x="829.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.990s"><title>0 kontrybucji · 17 lip 2026</title></rect>
-<rect class="c" x="829.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.012s"><title>0 kontrybucji · 18 lip 2026</title></rect>
-<rect class="c" x="848.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.902s"><title>0 kontrybucji · 19 lip 2026</title></rect>
-<rect class="c" x="848.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.924s"><title>0 kontrybucji · 20 lip 2026</title></rect>
-<rect class="c" x="848.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.946s"><title>0 kontrybucji · 21 lip 2026</title></rect>
-<rect class="c" x="848.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.968s"><title>0 kontrybucji · 22 lip 2026</title></rect>
-<rect class="c" x="848.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.990s"><title>0 kontrybucji · 23 lip 2026</title></rect>
-<rect class="c" x="848.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.012s"><title>0 kontrybucji · 24 lip 2026</title></rect>
-<rect class="c" x="848.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.034s"><title>0 kontrybucji · 25 lip 2026</title></rect>
-<rect class="c" x="867.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.924s"><title>0 kontrybucji · 26 lip 2026</title></rect>
-<rect class="c" x="867.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.946s"><title>0 kontrybucji · 27 lip 2026</title></rect>
-<rect class="c" x="867.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.968s"><title>0 kontrybucji · 28 lip 2026</title></rect>
-<rect class="c" x="867.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.990s"><title>0 kontrybucji · 29 lip 2026</title></rect>
-<rect class="c" x="867.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.012s"><title>0 kontrybucji · 30 lip 2026</title></rect>
-<rect class="c" x="867.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.034s"><title>0 kontrybucji · 31 lip 2026</title></rect>
-<rect class="c" x="867.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.056s"><title>0 kontrybucji · 1 sie 2026</title></rect>
-<rect class="c" x="886.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.946s"><title>0 kontrybucji · 2 sie 2026</title></rect>
-<rect class="c" x="886.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.968s"><title>0 kontrybucji · 3 sie 2026</title></rect>
-<rect class="c" x="886.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.990s"><title>0 kontrybucji · 4 sie 2026</title></rect>
-<rect class="c" x="886.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.012s"><title>0 kontrybucji · 5 sie 2026</title></rect>
-<rect class="c" x="886.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.034s"><title>0 kontrybucji · 6 sie 2026</title></rect>
-<rect class="c" x="886.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.056s"><title>0 kontrybucji · 7 sie 2026</title></rect>
-<rect class="c" x="886.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.078s"><title>0 kontrybucji · 8 sie 2026</title></rect>
-<rect class="c" x="905.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.968s"><title>0 kontrybucji · 9 sie 2026</title></rect>
-<rect class="c" x="905.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.990s"><title>0 kontrybucji · 10 sie 2026</title></rect>
-<rect class="c" x="905.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.012s"><title>0 kontrybucji · 11 sie 2026</title></rect>
-<rect class="c" x="905.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.034s"><title>0 kontrybucji · 12 sie 2026</title></rect>
-<rect class="c" x="905.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.056s"><title>0 kontrybucji · 13 sie 2026</title></rect>
-<rect class="c" x="905.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.078s"><title>0 kontrybucji · 14 sie 2026</title></rect>
-<rect class="c" x="905.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.100s"><title>0 kontrybucji · 15 sie 2026</title></rect>
-<rect class="c" x="924.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:0.990s"><title>0 kontrybucji · 16 sie 2026</title></rect>
-<rect class="c" x="924.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.012s"><title>0 kontrybucji · 17 sie 2026</title></rect>
-<rect class="c" x="924.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.034s"><title>0 kontrybucji · 18 sie 2026</title></rect>
-<rect class="c" x="924.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.056s"><title>0 kontrybucji · 19 sie 2026</title></rect>
-<rect class="c" x="924.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.078s"><title>0 kontrybucji · 20 sie 2026</title></rect>
-<rect class="c" x="924.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.100s"><title>0 kontrybucji · 21 sie 2026</title></rect>
-<rect class="c" x="924.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.122s"><title>0 kontrybucji · 22 sie 2026</title></rect>
-<rect class="c" x="943.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.012s"><title>0 kontrybucji · 23 sie 2026</title></rect>
-<rect class="c" x="943.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.034s"><title>0 kontrybucji · 24 sie 2026</title></rect>
-<rect class="c" x="943.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.056s"><title>0 kontrybucji · 25 sie 2026</title></rect>
-<rect class="c" x="943.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.078s"><title>0 kontrybucji · 26 sie 2026</title></rect>
-<rect class="c" x="943.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.100s"><title>0 kontrybucji · 27 sie 2026</title></rect>
-<rect class="c" x="943.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.122s"><title>0 kontrybucji · 28 sie 2026</title></rect>
-<rect class="c" x="943.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.144s"><title>0 kontrybucji · 29 sie 2026</title></rect>
-<rect class="c" x="962.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.034s"><title>0 kontrybucji · 30 sie 2026</title></rect>
-<rect class="c" x="962.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.056s"><title>0 kontrybucji · 31 sie 2026</title></rect>
-<rect class="c" x="962.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.078s"><title>0 kontrybucji · 1 wrz 2026</title></rect>
-<rect class="c" x="962.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.100s"><title>0 kontrybucji · 2 wrz 2026</title></rect>
-<rect class="c" x="962.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.122s"><title>0 kontrybucji · 3 wrz 2026</title></rect>
-<rect class="c" x="962.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.144s"><title>0 kontrybucji · 4 wrz 2026</title></rect>
-<rect class="c" x="962.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.166s"><title>0 kontrybucji · 5 wrz 2026</title></rect>
-<rect class="c" x="981.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.056s"><title>0 kontrybucji · 6 wrz 2026</title></rect>
-<rect class="c" x="981.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.078s"><title>0 kontrybucji · 7 wrz 2026</title></rect>
-<rect class="c" x="981.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.100s"><title>0 kontrybucji · 8 wrz 2026</title></rect>
-<rect class="c" x="981.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.122s"><title>0 kontrybucji · 9 wrz 2026</title></rect>
-<rect class="c" x="981.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.144s"><title>0 kontrybucji · 10 wrz 2026</title></rect>
-<rect class="c" x="981.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.166s"><title>0 kontrybucji · 11 wrz 2026</title></rect>
-<rect class="c" x="981.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.188s"><title>0 kontrybucji · 12 wrz 2026</title></rect>
-<rect class="c" x="1000.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.078s"><title>0 kontrybucji · 13 wrz 2026</title></rect>
-<rect class="c" x="1000.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.100s"><title>0 kontrybucji · 14 wrz 2026</title></rect>
-<rect class="c" x="1000.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.122s"><title>0 kontrybucji · 15 wrz 2026</title></rect>
-<rect class="c" x="1000.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.144s"><title>0 kontrybucji · 16 wrz 2026</title></rect>
-<rect class="c" x="1000.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.166s"><title>0 kontrybucji · 17 wrz 2026</title></rect>
-<rect class="c" x="1000.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.188s"><title>0 kontrybucji · 18 wrz 2026</title></rect>
-<rect class="c" x="1000.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.210s"><title>0 kontrybucji · 19 wrz 2026</title></rect>
-<rect class="c" x="1019.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.100s"><title>0 kontrybucji · 20 wrz 2026</title></rect>
-<rect class="c" x="1019.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.122s"><title>0 kontrybucji · 21 wrz 2026</title></rect>
-<rect class="c" x="1019.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.144s"><title>0 kontrybucji · 22 wrz 2026</title></rect>
-<rect class="c" x="1019.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.166s"><title>0 kontrybucji · 23 wrz 2026</title></rect>
-<rect class="c" x="1019.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.188s"><title>0 kontrybucji · 24 wrz 2026</title></rect>
-<rect class="c" x="1019.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.210s"><title>0 kontrybucji · 25 wrz 2026</title></rect>
-<rect class="c" x="1019.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.232s"><title>0 kontrybucji · 26 wrz 2026</title></rect>
-<rect class="c" x="1038.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.122s"><title>0 kontrybucji · 27 wrz 2026</title></rect>
-<rect class="c" x="1038.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.144s"><title>0 kontrybucji · 28 wrz 2026</title></rect>
-<rect class="c" x="1038.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.166s"><title>0 kontrybucji · 29 wrz 2026</title></rect>
-<rect class="c" x="1038.5" y="131" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.188s"><title>0 kontrybucji · 30 wrz 2026</title></rect>
-<rect class="c" x="1038.5" y="150" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.210s"><title>0 kontrybucji · 1 paź 2026</title></rect>
-<rect class="c" x="1038.5" y="169" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.232s"><title>0 kontrybucji · 2 paź 2026</title></rect>
-<rect class="c" x="1038.5" y="188" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.254s"><title>0 kontrybucji · 3 paź 2026</title></rect>
-<rect class="c" x="1057.5" y="74" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.144s"><title>0 kontrybucji · 4 paź 2026</title></rect>
-<rect class="c" x="1057.5" y="93" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.166s"><title>0 kontrybucji · 5 paź 2026</title></rect>
-<rect class="c" x="1057.5" y="112" width="15" height="15" rx="3.5" fill="#161b22" style="animation-delay:1.188s"><title>0 kontrybucji · 6 paź 2026</title></rect>
-<g class="f" style="animation-delay:1.60s">
-<text x="900.5" y="263" font-size="12" text-anchor="end" fill="#8b949e">Mniej</text>
-<rect x="910.5" y="251" width="15" height="15" rx="3.5" fill="#161b22"/>
-<rect x="929.5" y="251" width="15" height="15" rx="3.5" fill="#0e4429"/>
-<rect x="948.5" y="251" width="15" height="15" rx="3.5" fill="#006d32"/>
-<rect x="967.5" y="251" width="15" height="15" rx="3.5" fill="#26a641"/>
-<rect x="986.5" y="251" width="15" height="15" rx="3.5" fill="#39d353"/>
-<rect x="1005.5" y="251" width="15" height="15" rx="3.5" fill="#69f0a0"/>
-<text x="1030.5" y="263" font-size="12" fill="#8b949e">Więcej</text>
-</g>
-<text class="f" x="69.5" y="237" font-size="13" fill="#8b949e" style="animation-delay:1.60s">dane pojawią się po pierwszym uruchomieniu GitHub Actions</text>
-<text class="f" x="69.5" y="263" font-size="11" fill="#484f58" style="animation-delay:1.80s">odświeżane codziennie przez GitHub Actions</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="885" height="169" viewBox="0 0 885 169" role="img" aria-label="Kalendarz kontrybucji GitHub Jacob22092">
+<style>text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}.l{fill:#7d8590;font-size:13px;font-weight:600}.tot{fill:#8b949e;font-size:15px;font-weight:700}.c{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .55s ease-out both}@keyframes pop{0%{opacity:0;transform:scale(.2)}60%{opacity:1;transform:scale(1.12)}100%{opacity:1;transform:scale(1)}}.f{opacity:0;animation:fade .6s ease-out both}@keyframes fade{to{opacity:1}}@media (prefers-reduced-motion:reduce){.c,.f{opacity:1;animation:none}}</style>
+<text class="l" x="34" y="16">paź</text>
+<text class="l" x="82" y="16">lis</text>
+<text class="l" x="162" y="16">gru</text>
+<text class="l" x="226" y="16">sty</text>
+<text class="l" x="306" y="16">lut</text>
+<text class="l" x="370" y="16">mar</text>
+<text class="l" x="434" y="16">kwi</text>
+<text class="l" x="498" y="16">maj</text>
+<text class="l" x="578" y="16">cze</text>
+<text class="l" x="642" y="16">lip</text>
+<text class="l" x="706" y="16">sie</text>
+<text class="l" x="786" y="16">wrz</text>
+<text class="l" x="850" y="16">paź</text>
+<text class="l" x="0" y="53">pn</text>
+<text class="l" x="0" y="85">śr</text>
+<text class="l" x="0" y="117">pt</text>
+<rect class="c" x="34" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.00s"><title>0 kontrybucji · 2025-10-05</title></rect>
+<rect class="c" x="34" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.02s"><title>0 kontrybucji · 2025-10-06</title></rect>
+<rect class="c" x="34" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.04s"><title>0 kontrybucji · 2025-10-07</title></rect>
+<rect class="c" x="34" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.06s"><title>0 kontrybucji · 2025-10-08</title></rect>
+<rect class="c" x="34" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.08s"><title>0 kontrybucji · 2025-10-09</title></rect>
+<rect class="c" x="34" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.10s"><title>0 kontrybucji · 2025-10-10</title></rect>
+<rect class="c" x="34" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.12s"><title>0 kontrybucji · 2025-10-11</title></rect>
+<rect class="c" x="50" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.02s"><title>0 kontrybucji · 2025-10-12</title></rect>
+<rect class="c" x="50" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.04s"><title>0 kontrybucji · 2025-10-13</title></rect>
+<rect class="c" x="50" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.06s"><title>0 kontrybucji · 2025-10-14</title></rect>
+<rect class="c" x="50" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.08s"><title>0 kontrybucji · 2025-10-15</title></rect>
+<rect class="c" x="50" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.10s"><title>0 kontrybucji · 2025-10-16</title></rect>
+<rect class="c" x="50" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.12s"><title>0 kontrybucji · 2025-10-17</title></rect>
+<rect class="c" x="50" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.14s"><title>0 kontrybucji · 2025-10-18</title></rect>
+<rect class="c" x="66" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.04s"><title>0 kontrybucji · 2025-10-19</title></rect>
+<rect class="c" x="66" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.06s"><title>0 kontrybucji · 2025-10-20</title></rect>
+<rect class="c" x="66" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.08s"><title>0 kontrybucji · 2025-10-21</title></rect>
+<rect class="c" x="66" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.10s"><title>0 kontrybucji · 2025-10-22</title></rect>
+<rect class="c" x="66" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.12s"><title>0 kontrybucji · 2025-10-23</title></rect>
+<rect class="c" x="66" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.14s"><title>0 kontrybucji · 2025-10-24</title></rect>
+<rect class="c" x="66" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.16s"><title>0 kontrybucji · 2025-10-25</title></rect>
+<rect class="c" x="82" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.06s"><title>0 kontrybucji · 2025-10-26</title></rect>
+<rect class="c" x="82" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.08s"><title>0 kontrybucji · 2025-10-27</title></rect>
+<rect class="c" x="82" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.10s"><title>0 kontrybucji · 2025-10-28</title></rect>
+<rect class="c" x="82" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.12s"><title>0 kontrybucji · 2025-10-29</title></rect>
+<rect class="c" x="82" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.14s"><title>0 kontrybucji · 2025-10-30</title></rect>
+<rect class="c" x="82" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.16s"><title>0 kontrybucji · 2025-10-31</title></rect>
+<rect class="c" x="82" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.18s"><title>0 kontrybucji · 2025-11-01</title></rect>
+<rect class="c" x="98" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.08s"><title>0 kontrybucji · 2025-11-02</title></rect>
+<rect class="c" x="98" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.10s"><title>0 kontrybucji · 2025-11-03</title></rect>
+<rect class="c" x="98" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.12s"><title>0 kontrybucji · 2025-11-04</title></rect>
+<rect class="c" x="98" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.14s"><title>0 kontrybucji · 2025-11-05</title></rect>
+<rect class="c" x="98" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.16s"><title>0 kontrybucji · 2025-11-06</title></rect>
+<rect class="c" x="98" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.18s"><title>0 kontrybucji · 2025-11-07</title></rect>
+<rect class="c" x="98" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.20s"><title>0 kontrybucji · 2025-11-08</title></rect>
+<rect class="c" x="114" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.10s"><title>0 kontrybucji · 2025-11-09</title></rect>
+<rect class="c" x="114" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.12s"><title>0 kontrybucji · 2025-11-10</title></rect>
+<rect class="c" x="114" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.14s"><title>0 kontrybucji · 2025-11-11</title></rect>
+<rect class="c" x="114" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.16s"><title>0 kontrybucji · 2025-11-12</title></rect>
+<rect class="c" x="114" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.18s"><title>0 kontrybucji · 2025-11-13</title></rect>
+<rect class="c" x="114" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.20s"><title>0 kontrybucji · 2025-11-14</title></rect>
+<rect class="c" x="114" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.22s"><title>0 kontrybucji · 2025-11-15</title></rect>
+<rect class="c" x="130" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.12s"><title>0 kontrybucji · 2025-11-16</title></rect>
+<rect class="c" x="130" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.14s"><title>0 kontrybucji · 2025-11-17</title></rect>
+<rect class="c" x="130" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.16s"><title>0 kontrybucji · 2025-11-18</title></rect>
+<rect class="c" x="130" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.18s"><title>0 kontrybucji · 2025-11-19</title></rect>
+<rect class="c" x="130" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.20s"><title>0 kontrybucji · 2025-11-20</title></rect>
+<rect class="c" x="130" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.22s"><title>0 kontrybucji · 2025-11-21</title></rect>
+<rect class="c" x="130" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.24s"><title>0 kontrybucji · 2025-11-22</title></rect>
+<rect class="c" x="146" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.14s"><title>0 kontrybucji · 2025-11-23</title></rect>
+<rect class="c" x="146" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.16s"><title>0 kontrybucji · 2025-11-24</title></rect>
+<rect class="c" x="146" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.18s"><title>0 kontrybucji · 2025-11-25</title></rect>
+<rect class="c" x="146" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.20s"><title>0 kontrybucji · 2025-11-26</title></rect>
+<rect class="c" x="146" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.22s"><title>0 kontrybucji · 2025-11-27</title></rect>
+<rect class="c" x="146" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.24s"><title>0 kontrybucji · 2025-11-28</title></rect>
+<rect class="c" x="146" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.26s"><title>0 kontrybucji · 2025-11-29</title></rect>
+<rect class="c" x="162" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.16s"><title>0 kontrybucji · 2025-11-30</title></rect>
+<rect class="c" x="162" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.18s"><title>0 kontrybucji · 2025-12-01</title></rect>
+<rect class="c" x="162" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.20s"><title>0 kontrybucji · 2025-12-02</title></rect>
+<rect class="c" x="162" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.22s"><title>0 kontrybucji · 2025-12-03</title></rect>
+<rect class="c" x="162" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.24s"><title>0 kontrybucji · 2025-12-04</title></rect>
+<rect class="c" x="162" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.26s"><title>0 kontrybucji · 2025-12-05</title></rect>
+<rect class="c" x="162" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.28s"><title>0 kontrybucji · 2025-12-06</title></rect>
+<rect class="c" x="178" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.18s"><title>0 kontrybucji · 2025-12-07</title></rect>
+<rect class="c" x="178" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.20s"><title>0 kontrybucji · 2025-12-08</title></rect>
+<rect class="c" x="178" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.22s"><title>0 kontrybucji · 2025-12-09</title></rect>
+<rect class="c" x="178" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.24s"><title>0 kontrybucji · 2025-12-10</title></rect>
+<rect class="c" x="178" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.26s"><title>0 kontrybucji · 2025-12-11</title></rect>
+<rect class="c" x="178" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.28s"><title>0 kontrybucji · 2025-12-12</title></rect>
+<rect class="c" x="178" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.30s"><title>0 kontrybucji · 2025-12-13</title></rect>
+<rect class="c" x="194" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.20s"><title>0 kontrybucji · 2025-12-14</title></rect>
+<rect class="c" x="194" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.22s"><title>0 kontrybucji · 2025-12-15</title></rect>
+<rect class="c" x="194" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.24s"><title>0 kontrybucji · 2025-12-16</title></rect>
+<rect class="c" x="194" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.26s"><title>0 kontrybucji · 2025-12-17</title></rect>
+<rect class="c" x="194" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.28s"><title>0 kontrybucji · 2025-12-18</title></rect>
+<rect class="c" x="194" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.30s"><title>0 kontrybucji · 2025-12-19</title></rect>
+<rect class="c" x="194" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.32s"><title>0 kontrybucji · 2025-12-20</title></rect>
+<rect class="c" x="210" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.22s"><title>0 kontrybucji · 2025-12-21</title></rect>
+<rect class="c" x="210" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.24s"><title>0 kontrybucji · 2025-12-22</title></rect>
+<rect class="c" x="210" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.26s"><title>0 kontrybucji · 2025-12-23</title></rect>
+<rect class="c" x="210" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.28s"><title>0 kontrybucji · 2025-12-24</title></rect>
+<rect class="c" x="210" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.30s"><title>0 kontrybucji · 2025-12-25</title></rect>
+<rect class="c" x="210" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.32s"><title>0 kontrybucji · 2025-12-26</title></rect>
+<rect class="c" x="210" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.34s"><title>0 kontrybucji · 2025-12-27</title></rect>
+<rect class="c" x="226" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.24s"><title>0 kontrybucji · 2025-12-28</title></rect>
+<rect class="c" x="226" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.26s"><title>0 kontrybucji · 2025-12-29</title></rect>
+<rect class="c" x="226" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.28s"><title>0 kontrybucji · 2025-12-30</title></rect>
+<rect class="c" x="226" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.30s"><title>0 kontrybucji · 2025-12-31</title></rect>
+<rect class="c" x="226" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.32s"><title>0 kontrybucji · 2026-01-01</title></rect>
+<rect class="c" x="226" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.34s"><title>0 kontrybucji · 2026-01-02</title></rect>
+<rect class="c" x="226" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.36s"><title>0 kontrybucji · 2026-01-03</title></rect>
+<rect class="c" x="242" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.26s"><title>0 kontrybucji · 2026-01-04</title></rect>
+<rect class="c" x="242" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.28s"><title>0 kontrybucji · 2026-01-05</title></rect>
+<rect class="c" x="242" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.30s"><title>0 kontrybucji · 2026-01-06</title></rect>
+<rect class="c" x="242" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.32s"><title>0 kontrybucji · 2026-01-07</title></rect>
+<rect class="c" x="242" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.34s"><title>0 kontrybucji · 2026-01-08</title></rect>
+<rect class="c" x="242" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.36s"><title>0 kontrybucji · 2026-01-09</title></rect>
+<rect class="c" x="242" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.38s"><title>0 kontrybucji · 2026-01-10</title></rect>
+<rect class="c" x="258" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.28s"><title>0 kontrybucji · 2026-01-11</title></rect>
+<rect class="c" x="258" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.30s"><title>0 kontrybucji · 2026-01-12</title></rect>
+<rect class="c" x="258" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.32s"><title>0 kontrybucji · 2026-01-13</title></rect>
+<rect class="c" x="258" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.34s"><title>0 kontrybucji · 2026-01-14</title></rect>
+<rect class="c" x="258" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.36s"><title>0 kontrybucji · 2026-01-15</title></rect>
+<rect class="c" x="258" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.38s"><title>0 kontrybucji · 2026-01-16</title></rect>
+<rect class="c" x="258" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.40s"><title>0 kontrybucji · 2026-01-17</title></rect>
+<rect class="c" x="274" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.30s"><title>0 kontrybucji · 2026-01-18</title></rect>
+<rect class="c" x="274" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.32s"><title>0 kontrybucji · 2026-01-19</title></rect>
+<rect class="c" x="274" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.34s"><title>0 kontrybucji · 2026-01-20</title></rect>
+<rect class="c" x="274" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.36s"><title>0 kontrybucji · 2026-01-21</title></rect>
+<rect class="c" x="274" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.38s"><title>0 kontrybucji · 2026-01-22</title></rect>
+<rect class="c" x="274" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.40s"><title>0 kontrybucji · 2026-01-23</title></rect>
+<rect class="c" x="274" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.42s"><title>0 kontrybucji · 2026-01-24</title></rect>
+<rect class="c" x="290" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.32s"><title>0 kontrybucji · 2026-01-25</title></rect>
+<rect class="c" x="290" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.34s"><title>0 kontrybucji · 2026-01-26</title></rect>
+<rect class="c" x="290" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.36s"><title>0 kontrybucji · 2026-01-27</title></rect>
+<rect class="c" x="290" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.38s"><title>0 kontrybucji · 2026-01-28</title></rect>
+<rect class="c" x="290" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.40s"><title>0 kontrybucji · 2026-01-29</title></rect>
+<rect class="c" x="290" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.42s"><title>0 kontrybucji · 2026-01-30</title></rect>
+<rect class="c" x="290" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.44s"><title>0 kontrybucji · 2026-01-31</title></rect>
+<rect class="c" x="306" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.34s"><title>0 kontrybucji · 2026-02-01</title></rect>
+<rect class="c" x="306" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.36s"><title>0 kontrybucji · 2026-02-02</title></rect>
+<rect class="c" x="306" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.38s"><title>0 kontrybucji · 2026-02-03</title></rect>
+<rect class="c" x="306" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.40s"><title>0 kontrybucji · 2026-02-04</title></rect>
+<rect class="c" x="306" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.42s"><title>0 kontrybucji · 2026-02-05</title></rect>
+<rect class="c" x="306" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.44s"><title>0 kontrybucji · 2026-02-06</title></rect>
+<rect class="c" x="306" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.46s"><title>0 kontrybucji · 2026-02-07</title></rect>
+<rect class="c" x="322" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.36s"><title>0 kontrybucji · 2026-02-08</title></rect>
+<rect class="c" x="322" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.38s"><title>0 kontrybucji · 2026-02-09</title></rect>
+<rect class="c" x="322" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.40s"><title>0 kontrybucji · 2026-02-10</title></rect>
+<rect class="c" x="322" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.42s"><title>0 kontrybucji · 2026-02-11</title></rect>
+<rect class="c" x="322" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.44s"><title>0 kontrybucji · 2026-02-12</title></rect>
+<rect class="c" x="322" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.46s"><title>0 kontrybucji · 2026-02-13</title></rect>
+<rect class="c" x="322" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.48s"><title>0 kontrybucji · 2026-02-14</title></rect>
+<rect class="c" x="338" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.38s"><title>0 kontrybucji · 2026-02-15</title></rect>
+<rect class="c" x="338" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.40s"><title>0 kontrybucji · 2026-02-16</title></rect>
+<rect class="c" x="338" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.42s"><title>0 kontrybucji · 2026-02-17</title></rect>
+<rect class="c" x="338" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.44s"><title>0 kontrybucji · 2026-02-18</title></rect>
+<rect class="c" x="338" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.46s"><title>0 kontrybucji · 2026-02-19</title></rect>
+<rect class="c" x="338" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.48s"><title>0 kontrybucji · 2026-02-20</title></rect>
+<rect class="c" x="338" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.50s"><title>0 kontrybucji · 2026-02-21</title></rect>
+<rect class="c" x="354" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.40s"><title>0 kontrybucji · 2026-02-22</title></rect>
+<rect class="c" x="354" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.42s"><title>0 kontrybucji · 2026-02-23</title></rect>
+<rect class="c" x="354" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.44s"><title>0 kontrybucji · 2026-02-24</title></rect>
+<rect class="c" x="354" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.46s"><title>0 kontrybucji · 2026-02-25</title></rect>
+<rect class="c" x="354" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.48s"><title>0 kontrybucji · 2026-02-26</title></rect>
+<rect class="c" x="354" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.50s"><title>0 kontrybucji · 2026-02-27</title></rect>
+<rect class="c" x="354" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.52s"><title>0 kontrybucji · 2026-02-28</title></rect>
+<rect class="c" x="370" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.42s"><title>0 kontrybucji · 2026-03-01</title></rect>
+<rect class="c" x="370" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.44s"><title>0 kontrybucji · 2026-03-02</title></rect>
+<rect class="c" x="370" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.46s"><title>0 kontrybucji · 2026-03-03</title></rect>
+<rect class="c" x="370" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.48s"><title>0 kontrybucji · 2026-03-04</title></rect>
+<rect class="c" x="370" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.50s"><title>0 kontrybucji · 2026-03-05</title></rect>
+<rect class="c" x="370" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.52s"><title>0 kontrybucji · 2026-03-06</title></rect>
+<rect class="c" x="370" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.54s"><title>0 kontrybucji · 2026-03-07</title></rect>
+<rect class="c" x="386" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.44s"><title>0 kontrybucji · 2026-03-08</title></rect>
+<rect class="c" x="386" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.46s"><title>0 kontrybucji · 2026-03-09</title></rect>
+<rect class="c" x="386" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.48s"><title>0 kontrybucji · 2026-03-10</title></rect>
+<rect class="c" x="386" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.50s"><title>0 kontrybucji · 2026-03-11</title></rect>
+<rect class="c" x="386" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.52s"><title>0 kontrybucji · 2026-03-12</title></rect>
+<rect class="c" x="386" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.54s"><title>0 kontrybucji · 2026-03-13</title></rect>
+<rect class="c" x="386" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.56s"><title>0 kontrybucji · 2026-03-14</title></rect>
+<rect class="c" x="402" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.46s"><title>0 kontrybucji · 2026-03-15</title></rect>
+<rect class="c" x="402" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.48s"><title>0 kontrybucji · 2026-03-16</title></rect>
+<rect class="c" x="402" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.50s"><title>0 kontrybucji · 2026-03-17</title></rect>
+<rect class="c" x="402" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.52s"><title>0 kontrybucji · 2026-03-18</title></rect>
+<rect class="c" x="402" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.54s"><title>0 kontrybucji · 2026-03-19</title></rect>
+<rect class="c" x="402" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.56s"><title>0 kontrybucji · 2026-03-20</title></rect>
+<rect class="c" x="402" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.58s"><title>0 kontrybucji · 2026-03-21</title></rect>
+<rect class="c" x="418" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.48s"><title>0 kontrybucji · 2026-03-22</title></rect>
+<rect class="c" x="418" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.50s"><title>0 kontrybucji · 2026-03-23</title></rect>
+<rect class="c" x="418" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.52s"><title>0 kontrybucji · 2026-03-24</title></rect>
+<rect class="c" x="418" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.54s"><title>0 kontrybucji · 2026-03-25</title></rect>
+<rect class="c" x="418" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.56s"><title>0 kontrybucji · 2026-03-26</title></rect>
+<rect class="c" x="418" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.58s"><title>0 kontrybucji · 2026-03-27</title></rect>
+<rect class="c" x="418" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.60s"><title>0 kontrybucji · 2026-03-28</title></rect>
+<rect class="c" x="434" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.50s"><title>0 kontrybucji · 2026-03-29</title></rect>
+<rect class="c" x="434" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.52s"><title>0 kontrybucji · 2026-03-30</title></rect>
+<rect class="c" x="434" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.54s"><title>0 kontrybucji · 2026-03-31</title></rect>
+<rect class="c" x="434" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.56s"><title>0 kontrybucji · 2026-04-01</title></rect>
+<rect class="c" x="434" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.58s"><title>0 kontrybucji · 2026-04-02</title></rect>
+<rect class="c" x="434" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.60s"><title>0 kontrybucji · 2026-04-03</title></rect>
+<rect class="c" x="434" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.62s"><title>0 kontrybucji · 2026-04-04</title></rect>
+<rect class="c" x="450" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.52s"><title>0 kontrybucji · 2026-04-05</title></rect>
+<rect class="c" x="450" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.54s"><title>0 kontrybucji · 2026-04-06</title></rect>
+<rect class="c" x="450" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.56s"><title>0 kontrybucji · 2026-04-07</title></rect>
+<rect class="c" x="450" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.58s"><title>0 kontrybucji · 2026-04-08</title></rect>
+<rect class="c" x="450" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.60s"><title>0 kontrybucji · 2026-04-09</title></rect>
+<rect class="c" x="450" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.62s"><title>0 kontrybucji · 2026-04-10</title></rect>
+<rect class="c" x="450" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.64s"><title>0 kontrybucji · 2026-04-11</title></rect>
+<rect class="c" x="466" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.54s"><title>0 kontrybucji · 2026-04-12</title></rect>
+<rect class="c" x="466" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.56s"><title>0 kontrybucji · 2026-04-13</title></rect>
+<rect class="c" x="466" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.58s"><title>0 kontrybucji · 2026-04-14</title></rect>
+<rect class="c" x="466" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.60s"><title>0 kontrybucji · 2026-04-15</title></rect>
+<rect class="c" x="466" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.62s"><title>0 kontrybucji · 2026-04-16</title></rect>
+<rect class="c" x="466" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.64s"><title>0 kontrybucji · 2026-04-17</title></rect>
+<rect class="c" x="466" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.66s"><title>0 kontrybucji · 2026-04-18</title></rect>
+<rect class="c" x="482" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.56s"><title>0 kontrybucji · 2026-04-19</title></rect>
+<rect class="c" x="482" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.58s"><title>0 kontrybucji · 2026-04-20</title></rect>
+<rect class="c" x="482" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.60s"><title>0 kontrybucji · 2026-04-21</title></rect>
+<rect class="c" x="482" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.62s"><title>0 kontrybucji · 2026-04-22</title></rect>
+<rect class="c" x="482" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.64s"><title>0 kontrybucji · 2026-04-23</title></rect>
+<rect class="c" x="482" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.66s"><title>0 kontrybucji · 2026-04-24</title></rect>
+<rect class="c" x="482" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.68s"><title>0 kontrybucji · 2026-04-25</title></rect>
+<rect class="c" x="498" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.58s"><title>0 kontrybucji · 2026-04-26</title></rect>
+<rect class="c" x="498" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.60s"><title>0 kontrybucji · 2026-04-27</title></rect>
+<rect class="c" x="498" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.62s"><title>0 kontrybucji · 2026-04-28</title></rect>
+<rect class="c" x="498" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.64s"><title>0 kontrybucji · 2026-04-29</title></rect>
+<rect class="c" x="498" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.66s"><title>0 kontrybucji · 2026-04-30</title></rect>
+<rect class="c" x="498" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.68s"><title>0 kontrybucji · 2026-05-01</title></rect>
+<rect class="c" x="498" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.70s"><title>0 kontrybucji · 2026-05-02</title></rect>
+<rect class="c" x="514" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.60s"><title>0 kontrybucji · 2026-05-03</title></rect>
+<rect class="c" x="514" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.62s"><title>0 kontrybucji · 2026-05-04</title></rect>
+<rect class="c" x="514" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.64s"><title>0 kontrybucji · 2026-05-05</title></rect>
+<rect class="c" x="514" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.66s"><title>0 kontrybucji · 2026-05-06</title></rect>
+<rect class="c" x="514" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.68s"><title>0 kontrybucji · 2026-05-07</title></rect>
+<rect class="c" x="514" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.70s"><title>0 kontrybucji · 2026-05-08</title></rect>
+<rect class="c" x="514" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.72s"><title>0 kontrybucji · 2026-05-09</title></rect>
+<rect class="c" x="530" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.62s"><title>0 kontrybucji · 2026-05-10</title></rect>
+<rect class="c" x="530" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.64s"><title>0 kontrybucji · 2026-05-11</title></rect>
+<rect class="c" x="530" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.66s"><title>0 kontrybucji · 2026-05-12</title></rect>
+<rect class="c" x="530" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.68s"><title>0 kontrybucji · 2026-05-13</title></rect>
+<rect class="c" x="530" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.70s"><title>0 kontrybucji · 2026-05-14</title></rect>
+<rect class="c" x="530" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.72s"><title>0 kontrybucji · 2026-05-15</title></rect>
+<rect class="c" x="530" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.74s"><title>0 kontrybucji · 2026-05-16</title></rect>
+<rect class="c" x="546" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.64s"><title>0 kontrybucji · 2026-05-17</title></rect>
+<rect class="c" x="546" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.66s"><title>0 kontrybucji · 2026-05-18</title></rect>
+<rect class="c" x="546" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.68s"><title>0 kontrybucji · 2026-05-19</title></rect>
+<rect class="c" x="546" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.70s"><title>0 kontrybucji · 2026-05-20</title></rect>
+<rect class="c" x="546" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.72s"><title>0 kontrybucji · 2026-05-21</title></rect>
+<rect class="c" x="546" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.74s"><title>0 kontrybucji · 2026-05-22</title></rect>
+<rect class="c" x="546" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.76s"><title>0 kontrybucji · 2026-05-23</title></rect>
+<rect class="c" x="562" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.66s"><title>0 kontrybucji · 2026-05-24</title></rect>
+<rect class="c" x="562" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.68s"><title>0 kontrybucji · 2026-05-25</title></rect>
+<rect class="c" x="562" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.70s"><title>0 kontrybucji · 2026-05-26</title></rect>
+<rect class="c" x="562" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.72s"><title>0 kontrybucji · 2026-05-27</title></rect>
+<rect class="c" x="562" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.74s"><title>0 kontrybucji · 2026-05-28</title></rect>
+<rect class="c" x="562" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.76s"><title>0 kontrybucji · 2026-05-29</title></rect>
+<rect class="c" x="562" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.78s"><title>0 kontrybucji · 2026-05-30</title></rect>
+<rect class="c" x="578" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.68s"><title>0 kontrybucji · 2026-05-31</title></rect>
+<rect class="c" x="578" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.70s"><title>0 kontrybucji · 2026-06-01</title></rect>
+<rect class="c" x="578" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.72s"><title>0 kontrybucji · 2026-06-02</title></rect>
+<rect class="c" x="578" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.74s"><title>0 kontrybucji · 2026-06-03</title></rect>
+<rect class="c" x="578" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.76s"><title>0 kontrybucji · 2026-06-04</title></rect>
+<rect class="c" x="578" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.78s"><title>0 kontrybucji · 2026-06-05</title></rect>
+<rect class="c" x="578" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.80s"><title>0 kontrybucji · 2026-06-06</title></rect>
+<rect class="c" x="594" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.70s"><title>0 kontrybucji · 2026-06-07</title></rect>
+<rect class="c" x="594" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.72s"><title>0 kontrybucji · 2026-06-08</title></rect>
+<rect class="c" x="594" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.74s"><title>0 kontrybucji · 2026-06-09</title></rect>
+<rect class="c" x="594" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.76s"><title>0 kontrybucji · 2026-06-10</title></rect>
+<rect class="c" x="594" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.78s"><title>0 kontrybucji · 2026-06-11</title></rect>
+<rect class="c" x="594" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.80s"><title>0 kontrybucji · 2026-06-12</title></rect>
+<rect class="c" x="594" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.82s"><title>0 kontrybucji · 2026-06-13</title></rect>
+<rect class="c" x="610" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.72s"><title>0 kontrybucji · 2026-06-14</title></rect>
+<rect class="c" x="610" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.74s"><title>0 kontrybucji · 2026-06-15</title></rect>
+<rect class="c" x="610" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.76s"><title>0 kontrybucji · 2026-06-16</title></rect>
+<rect class="c" x="610" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.78s"><title>0 kontrybucji · 2026-06-17</title></rect>
+<rect class="c" x="610" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.80s"><title>0 kontrybucji · 2026-06-18</title></rect>
+<rect class="c" x="610" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.82s"><title>0 kontrybucji · 2026-06-19</title></rect>
+<rect class="c" x="610" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.84s"><title>0 kontrybucji · 2026-06-20</title></rect>
+<rect class="c" x="626" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.74s"><title>0 kontrybucji · 2026-06-21</title></rect>
+<rect class="c" x="626" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.76s"><title>0 kontrybucji · 2026-06-22</title></rect>
+<rect class="c" x="626" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.78s"><title>0 kontrybucji · 2026-06-23</title></rect>
+<rect class="c" x="626" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.80s"><title>0 kontrybucji · 2026-06-24</title></rect>
+<rect class="c" x="626" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.82s"><title>0 kontrybucji · 2026-06-25</title></rect>
+<rect class="c" x="626" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.84s"><title>0 kontrybucji · 2026-06-26</title></rect>
+<rect class="c" x="626" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.86s"><title>0 kontrybucji · 2026-06-27</title></rect>
+<rect class="c" x="642" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.76s"><title>0 kontrybucji · 2026-06-28</title></rect>
+<rect class="c" x="642" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.78s"><title>0 kontrybucji · 2026-06-29</title></rect>
+<rect class="c" x="642" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.80s"><title>0 kontrybucji · 2026-06-30</title></rect>
+<rect class="c" x="642" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.82s"><title>0 kontrybucji · 2026-07-01</title></rect>
+<rect class="c" x="642" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.84s"><title>0 kontrybucji · 2026-07-02</title></rect>
+<rect class="c" x="642" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.86s"><title>0 kontrybucji · 2026-07-03</title></rect>
+<rect class="c" x="642" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.88s"><title>0 kontrybucji · 2026-07-04</title></rect>
+<rect class="c" x="658" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.78s"><title>0 kontrybucji · 2026-07-05</title></rect>
+<rect class="c" x="658" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.80s"><title>0 kontrybucji · 2026-07-06</title></rect>
+<rect class="c" x="658" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.82s"><title>0 kontrybucji · 2026-07-07</title></rect>
+<rect class="c" x="658" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.84s"><title>0 kontrybucji · 2026-07-08</title></rect>
+<rect class="c" x="658" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.86s"><title>0 kontrybucji · 2026-07-09</title></rect>
+<rect class="c" x="658" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.88s"><title>0 kontrybucji · 2026-07-10</title></rect>
+<rect class="c" x="658" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.90s"><title>0 kontrybucji · 2026-07-11</title></rect>
+<rect class="c" x="674" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.80s"><title>0 kontrybucji · 2026-07-12</title></rect>
+<rect class="c" x="674" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.82s"><title>0 kontrybucji · 2026-07-13</title></rect>
+<rect class="c" x="674" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.84s"><title>0 kontrybucji · 2026-07-14</title></rect>
+<rect class="c" x="674" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.86s"><title>0 kontrybucji · 2026-07-15</title></rect>
+<rect class="c" x="674" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.88s"><title>0 kontrybucji · 2026-07-16</title></rect>
+<rect class="c" x="674" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.90s"><title>0 kontrybucji · 2026-07-17</title></rect>
+<rect class="c" x="674" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.92s"><title>0 kontrybucji · 2026-07-18</title></rect>
+<rect class="c" x="690" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.82s"><title>0 kontrybucji · 2026-07-19</title></rect>
+<rect class="c" x="690" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.84s"><title>0 kontrybucji · 2026-07-20</title></rect>
+<rect class="c" x="690" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.86s"><title>0 kontrybucji · 2026-07-21</title></rect>
+<rect class="c" x="690" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.88s"><title>0 kontrybucji · 2026-07-22</title></rect>
+<rect class="c" x="690" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.90s"><title>0 kontrybucji · 2026-07-23</title></rect>
+<rect class="c" x="690" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.92s"><title>0 kontrybucji · 2026-07-24</title></rect>
+<rect class="c" x="690" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.94s"><title>0 kontrybucji · 2026-07-25</title></rect>
+<rect class="c" x="706" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.84s"><title>0 kontrybucji · 2026-07-26</title></rect>
+<rect class="c" x="706" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.86s"><title>0 kontrybucji · 2026-07-27</title></rect>
+<rect class="c" x="706" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.88s"><title>0 kontrybucji · 2026-07-28</title></rect>
+<rect class="c" x="706" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.90s"><title>0 kontrybucji · 2026-07-29</title></rect>
+<rect class="c" x="706" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.92s"><title>0 kontrybucji · 2026-07-30</title></rect>
+<rect class="c" x="706" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.94s"><title>0 kontrybucji · 2026-07-31</title></rect>
+<rect class="c" x="706" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.96s"><title>0 kontrybucji · 2026-08-01</title></rect>
+<rect class="c" x="722" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.86s"><title>0 kontrybucji · 2026-08-02</title></rect>
+<rect class="c" x="722" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.88s"><title>0 kontrybucji · 2026-08-03</title></rect>
+<rect class="c" x="722" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.90s"><title>0 kontrybucji · 2026-08-04</title></rect>
+<rect class="c" x="722" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.92s"><title>0 kontrybucji · 2026-08-05</title></rect>
+<rect class="c" x="722" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.94s"><title>0 kontrybucji · 2026-08-06</title></rect>
+<rect class="c" x="722" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.96s"><title>0 kontrybucji · 2026-08-07</title></rect>
+<rect class="c" x="722" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.98s"><title>0 kontrybucji · 2026-08-08</title></rect>
+<rect class="c" x="738" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.88s"><title>0 kontrybucji · 2026-08-09</title></rect>
+<rect class="c" x="738" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.90s"><title>0 kontrybucji · 2026-08-10</title></rect>
+<rect class="c" x="738" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.92s"><title>0 kontrybucji · 2026-08-11</title></rect>
+<rect class="c" x="738" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.94s"><title>0 kontrybucji · 2026-08-12</title></rect>
+<rect class="c" x="738" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.96s"><title>0 kontrybucji · 2026-08-13</title></rect>
+<rect class="c" x="738" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.98s"><title>0 kontrybucji · 2026-08-14</title></rect>
+<rect class="c" x="738" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.00s"><title>0 kontrybucji · 2026-08-15</title></rect>
+<rect class="c" x="754" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.90s"><title>0 kontrybucji · 2026-08-16</title></rect>
+<rect class="c" x="754" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.92s"><title>0 kontrybucji · 2026-08-17</title></rect>
+<rect class="c" x="754" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.94s"><title>0 kontrybucji · 2026-08-18</title></rect>
+<rect class="c" x="754" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.96s"><title>0 kontrybucji · 2026-08-19</title></rect>
+<rect class="c" x="754" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.98s"><title>0 kontrybucji · 2026-08-20</title></rect>
+<rect class="c" x="754" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.00s"><title>0 kontrybucji · 2026-08-21</title></rect>
+<rect class="c" x="754" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.02s"><title>0 kontrybucji · 2026-08-22</title></rect>
+<rect class="c" x="770" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.92s"><title>0 kontrybucji · 2026-08-23</title></rect>
+<rect class="c" x="770" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.94s"><title>0 kontrybucji · 2026-08-24</title></rect>
+<rect class="c" x="770" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.96s"><title>0 kontrybucji · 2026-08-25</title></rect>
+<rect class="c" x="770" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.98s"><title>0 kontrybucji · 2026-08-26</title></rect>
+<rect class="c" x="770" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.00s"><title>0 kontrybucji · 2026-08-27</title></rect>
+<rect class="c" x="770" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.02s"><title>0 kontrybucji · 2026-08-28</title></rect>
+<rect class="c" x="770" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.04s"><title>0 kontrybucji · 2026-08-29</title></rect>
+<rect class="c" x="786" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.94s"><title>0 kontrybucji · 2026-08-30</title></rect>
+<rect class="c" x="786" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.96s"><title>0 kontrybucji · 2026-08-31</title></rect>
+<rect class="c" x="786" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.98s"><title>0 kontrybucji · 2026-09-01</title></rect>
+<rect class="c" x="786" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.00s"><title>0 kontrybucji · 2026-09-02</title></rect>
+<rect class="c" x="786" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.02s"><title>0 kontrybucji · 2026-09-03</title></rect>
+<rect class="c" x="786" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.04s"><title>0 kontrybucji · 2026-09-04</title></rect>
+<rect class="c" x="786" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.06s"><title>0 kontrybucji · 2026-09-05</title></rect>
+<rect class="c" x="802" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.96s"><title>0 kontrybucji · 2026-09-06</title></rect>
+<rect class="c" x="802" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.98s"><title>0 kontrybucji · 2026-09-07</title></rect>
+<rect class="c" x="802" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.00s"><title>0 kontrybucji · 2026-09-08</title></rect>
+<rect class="c" x="802" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.02s"><title>0 kontrybucji · 2026-09-09</title></rect>
+<rect class="c" x="802" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.04s"><title>0 kontrybucji · 2026-09-10</title></rect>
+<rect class="c" x="802" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.06s"><title>0 kontrybucji · 2026-09-11</title></rect>
+<rect class="c" x="802" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.08s"><title>0 kontrybucji · 2026-09-12</title></rect>
+<rect class="c" x="818" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.98s"><title>0 kontrybucji · 2026-09-13</title></rect>
+<rect class="c" x="818" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.00s"><title>0 kontrybucji · 2026-09-14</title></rect>
+<rect class="c" x="818" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.02s"><title>0 kontrybucji · 2026-09-15</title></rect>
+<rect class="c" x="818" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.04s"><title>0 kontrybucji · 2026-09-16</title></rect>
+<rect class="c" x="818" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.06s"><title>0 kontrybucji · 2026-09-17</title></rect>
+<rect class="c" x="818" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.08s"><title>0 kontrybucji · 2026-09-18</title></rect>
+<rect class="c" x="818" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.10s"><title>0 kontrybucji · 2026-09-19</title></rect>
+<rect class="c" x="834" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.00s"><title>0 kontrybucji · 2026-09-20</title></rect>
+<rect class="c" x="834" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.02s"><title>0 kontrybucji · 2026-09-21</title></rect>
+<rect class="c" x="834" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.04s"><title>0 kontrybucji · 2026-09-22</title></rect>
+<rect class="c" x="834" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.06s"><title>0 kontrybucji · 2026-09-23</title></rect>
+<rect class="c" x="834" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.08s"><title>0 kontrybucji · 2026-09-24</title></rect>
+<rect class="c" x="834" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.10s"><title>0 kontrybucji · 2026-09-25</title></rect>
+<rect class="c" x="834" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.12s"><title>0 kontrybucji · 2026-09-26</title></rect>
+<rect class="c" x="850" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.02s"><title>0 kontrybucji · 2026-09-27</title></rect>
+<rect class="c" x="850" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.04s"><title>0 kontrybucji · 2026-09-28</title></rect>
+<rect class="c" x="850" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.06s"><title>0 kontrybucji · 2026-09-29</title></rect>
+<rect class="c" x="850" y="74" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.08s"><title>0 kontrybucji · 2026-09-30</title></rect>
+<rect class="c" x="850" y="90" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.10s"><title>0 kontrybucji · 2026-10-01</title></rect>
+<rect class="c" x="850" y="106" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.12s"><title>0 kontrybucji · 2026-10-02</title></rect>
+<rect class="c" x="850" y="122" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.14s"><title>0 kontrybucji · 2026-10-03</title></rect>
+<rect class="c" x="866" y="26" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.04s"><title>0 kontrybucji · 2026-10-04</title></rect>
+<rect class="c" x="866" y="42" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.06s"><title>0 kontrybucji · 2026-10-05</title></rect>
+<rect class="c" x="866" y="58" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:1.08s"><title>0 kontrybucji · 2026-10-06</title></rect>
+<text class="tot f" x="34" y="159" style="animation-delay:1.18s">dane pojawią się po pierwszym uruchomieniu GitHub Actions</text>
+</svg>

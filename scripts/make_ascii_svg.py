@@ -17,26 +17,30 @@ from xml.sax.saxutils import escape
 import numpy as np
 from PIL import Image, ImageOps
 
+from profile_data import FONT_MONO as FONT, PROMPT
+
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "source-prepped.png"
 OUT = ROOT / "jhit-ascii.svg"
 
 RAMP = " .`:-=+*cs#%@"  # jasne (rzadkie) -> ciemne (gęste); spacja czyści tło
-COLS = 72
+W, H = 840, 880  # == stats.svg, żeby kolumny w README się zrównały
+PAD = 20
+BAR_H = 30  # pasek tytułu
+FOOT_H = 30  # pasek z promptem na dole
+COLS = 116
 BG_CUTOFF = 48  # 0-255; jaśniejsze piksele źródła traktuj jako tło
 CHAR_ASPECT = 0.55  # szerokość / wysokość znaku monospace
-CELL_W = 7.2
-CELL_H = CELL_W / CHAR_ASPECT * 0.5 * 2  # = 13.09: kwadratowe piksele obrazu
-FONT_SIZE = 12
-PAD = 18
-MIN_HEIGHT = 533  # = wysokość info-card.svg, żeby kolumny w README się zrównały
-BG = "#0d1117"
-BORDER = "#30363d"
+CELL_W = (W - 2 * PAD) / COLS
+CELL_H = CELL_W / CHAR_ASPECT
+FONT_SIZE = CELL_W / 0.6
+BG, BG_TOP, FRAME = "#0d1117", "#111722", "#30363d"
 FG = "#c9d1d9"
-CURSOR = "#398E4A"
-ROW_DELAY = 0.07  # s między startami kolejnych wierszy
-ROW_DUR = 0.45  # s na „wydrukowanie” jednego wiersza
-FONT = "ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace"
+MUTED = "#7d8590"
+CURSOR = "#39d353"
+WHOAMI = "Jakub Hyziak"
+ROW_DELAY = 0.045  # s między startami kolejnych wierszy
+ROW_DUR = 0.4  # s na „wydrukowanie” pełnego wiersza
 
 
 def to_grid(img: Image.Image) -> list[str]:
@@ -61,15 +65,23 @@ def to_grid(img: Image.Image) -> list[str]:
 
 
 def render(lines: list[str], static: bool) -> str:
-    width = round(COLS * CELL_W + 2 * PAD)
-    height = max(MIN_HEIGHT, round(len(lines) * CELL_H + 2 * PAD))
-    top = (height - len(lines) * CELL_H) / 2
+    area_top, area_bottom = BAR_H + 8, H - FOOT_H - 8
+    top = area_top + max(0.0, (area_bottom - area_top - len(lines) * CELL_H) / 2)
     inner_w = COLS * CELL_W
     out = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
-        f'viewBox="0 0 {width} {height}" role="img" aria-label="Logo Jakub Hyziak IT w ASCII">',
-        f'<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="12" fill="{BG}" stroke="{BORDER}"/>',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
+        f'font-family="{FONT}" role="img" aria-label="Logo Jakub Hyziak IT w ASCII">',
+        f'<rect width="{W}" height="{H}" rx="12" fill="url(#bg)"/>',
+        f'<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="12" fill="none" stroke="{FRAME}"/>',
+        f'<line x1="0" y1="{BAR_H}" x2="{W}" y2="{BAR_H}" stroke="{FRAME}"/>',
+        f'<line x1="0" y1="{H - FOOT_H}" x2="{W}" y2="{H - FOOT_H}" stroke="{FRAME}"/>',
+        *[f'<circle cx="{PAD + i * 16}" cy="{BAR_H / 2}" r="5" fill="{c}"/>'
+          for i, c in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"])],
+        f'<text x="{W / 2}" y="{BAR_H / 2 + 4}" fill="{MUTED}" font-size="12" text-anchor="middle">'
+        f"{PROMPT}: ~$ ./portrait.sh</text>",
         "<defs>",
+        f'<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{BG_TOP}"/>'
+        f'<stop offset="1" stop-color="{BG}"/></linearGradient>',
     ]
     body = []
     for i, line in enumerate(lines):
@@ -101,9 +113,23 @@ def render(lines: list[str], static: bool) -> str:
             f'<set attributeName="opacity" to="0" begin="{begin + dur:.2f}s"/></rect>'
         )
     out.append("</defs>")
-    out.append(f'<g font-family="{FONT}" font-size="{FONT_SIZE}" fill="{FG}">')
+    out.append(f'<g font-size="{FONT_SIZE:.2f}" fill="{FG}">')
     out.extend(body)
-    out.append("</g></svg>")
+    out.append("</g>")
+    # prompt na dole: pojawia się, gdy portret się dopisze; kursor mruga kilka razy
+    done = 0 if static else len(lines) * ROW_DELAY + ROW_DUR
+    prompt = f"{PROMPT}:~$ whoami "
+    fy = H - FOOT_H / 2 + 4
+    reveal = "" if static else f'<set attributeName="opacity" to="1" begin="{done:.2f}s"/>'
+    out.append(f'<g opacity="{1 if static else 0}">{reveal}'
+               f'<text x="{PAD}" y="{fy}" font-size="12" fill="{MUTED}" xml:space="preserve">{prompt}'
+               f'<tspan fill="{FG}">{escape(WHOAMI)}</tspan></text>'
+               f'<rect x="{PAD + (len(prompt) + len(WHOAMI) + 1) * 7.2:.1f}" y="{fy - 10}" width="7" height="13" '
+               f'fill="{CURSOR}">'
+               + ("" if static else f'<animate attributeName="opacity" values="1;0" dur="1s" begin="{done:.2f}s" '
+                  f'repeatCount="8" calcMode="discrete" fill="freeze"/>')
+               + "</rect></g>")
+    out.append("</svg>")
     return "\n".join(out) + "\n"
 
 

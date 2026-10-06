@@ -9,6 +9,8 @@ name: Update profile art
     paths:
       - "scripts/fetch_contributions.py"
       - "scripts/render_heatmap_svg.py"
+      - "scripts/render_stats_svg.py"
+      - "scripts/profile_data.py"
       - ".github/workflows/update-profile-art.yml"
 
 permissions:
@@ -32,7 +34,8 @@ jobs:
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/fetch_contributions.py
       - run: python scripts/render_heatmap_svg.py
+      - run: python scripts/render_stats_svg.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: refresh contribution graph + stats [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg"

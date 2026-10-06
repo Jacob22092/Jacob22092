@@ -11,7 +11,6 @@ import json
 import os
 import re
 import sys
-from collections import OrderedDict
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -52,37 +51,49 @@ def parse_days(html: str) -> list[dict]:
     return days
 
 
-def streaks(days: list[dict]) -> tuple[int, int]:
-    longest = run = 0
-    for d in days:
-        run = run + 1 if d["count"] > 0 else 0
-        longest = max(longest, run)
+def streaks(days: list[dict]) -> tuple[dict, dict]:
+    """Zwraca (bieżąca, najdłuższa) seria jako {length, start, end}."""
+    longest = {"length": 0, "start": None, "end": None}
+    run_start = None
+    for i, d in enumerate(days):
+        if d["count"] > 0:
+            run_start = run_start if run_start is not None else i
+            if i - run_start + 1 > longest["length"]:
+                longest = {"length": i - run_start + 1, "start": days[run_start]["date"], "end": d["date"]}
+        else:
+            run_start = None
     # bieżąca seria: dzisiejsze 0 jej nie przerywa (dzień jeszcze trwa)
-    tail = days[:-1] if days and days[-1]["count"] == 0 else days
-    current = 0
-    for d in reversed(tail):
-        if d["count"] == 0:
-            break
-        current += 1
+    end = len(days) - 1
+    if end >= 0 and days[end]["count"] == 0:
+        end -= 1
+    start = end
+    while start >= 0 and days[start]["count"] > 0:
+        start -= 1
+    length = end - start
+    current = {"length": length, "start": days[start + 1]["date"] if length else None,
+               "end": days[end]["date"] if length else None}
     return current, longest
 
 
 def build(user: str, days: list[dict]) -> dict:
     current, longest = streaks(days)
     best = max(days, key=lambda d: d["count"])
-    monthly: "OrderedDict[str, int]" = OrderedDict()
+    total = sum(d["count"] for d in days)
+    active = sum(1 for d in days if d["count"] > 0)
+    monthly: dict[str, int] = {}
     for d in days:
         monthly[d["date"][:7]] = monthly.get(d["date"][:7], 0) + d["count"]
     return {
         "user": user,
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "range": {"from": days[0]["date"], "to": days[-1]["date"]},
-        "total": sum(d["count"] for d in days),
+        "total": total,
         "current_streak": current,
         "longest_streak": longest,
         "best_day": {"date": best["date"], "count": best["count"]},
-        "active_days": sum(1 for d in days if d["count"] > 0),
-        "monthly": monthly,
+        "active_days": active,
+        "avg_per_active_day": round(total / active, 1) if active else 0.0,
+        "monthly": [{"month": m, "total": t} for m, t in monthly.items()],
         "days": days,
     }
 
