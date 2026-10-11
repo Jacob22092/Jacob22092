@@ -1,15 +1,15 @@
 {
  "user": "Jacob22092",
- "generated_at": "2026-10-10T12:32:00+00:00",
+ "generated_at": "2026-10-11T12:50:02+00:00",
  "range": {
-  "from": "2025-10-05",
-  "to": "2026-10-10"
+  "from": "2025-10-12",
+  "to": "2026-10-11"
  },
- "total": 530,
+ "total": 484,
  "current_streak": {
-  "length": 5,
+  "length": 6,
   "start": "2026-10-05",
-  "end": "2026-10-09"
+  "end": "2026-10-10"
  },
  "longest_streak": {
   "length": 9,
@@ -17,15 +17,15 @@
   "end": "2026-04-24"
  },
  "best_day": {
-  "date": "2025-10-07",
+  "date": "2026-04-17",
   "count": 33
  },
- "active_days": 46,
+ "active_days": 42,
  "avg_per_active_day": 11.5,
  "monthly": [
   {
    "month": "2025-10",
-   "total": 55
+   "total": 8
   },
   {
    "month": "2025-11",
@@ -73,45 +73,10 @@
   },
   {
    "month": "2026-10",
-   "total": 21
+   "total": 22
   }
  ],
  "days": [
-  {
-   "date": "2025-10-05",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-06",
-   "count": 11,
-   "level": 2
-  },
-  {
-   "date": "2025-10-07",
-   "count": 33,
-   "level": 4
-  },
-  {
-   "date": "2025-10-08",
-   "count": 1,
-   "level": 1
-  },
-  {
-   "date": "2025-10-09",
-   "count": 1,
-   "level": 1
-  },
-  {
-   "date": "2025-10-10",
-   "count": 1,
-   "level": 1
-  },
-  {
-   "date": "2025-10-11",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-10-12",
    "count": 0,
@@ -1929,6 +1894,11 @@
   },
   {
    "date": "2026-10-10",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-10-11",
    "count": 0,
    "level": 0
   }
